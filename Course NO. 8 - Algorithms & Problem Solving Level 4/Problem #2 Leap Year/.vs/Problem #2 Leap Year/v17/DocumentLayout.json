@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #2 Leap Year\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F05EB39-F2B6-4F1E-8F15-1BC9A26BBB21}|Problem #2 Leap Year\\Problem #2 Leap Year.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #2 Leap Year\\Problem #2 Leap Year\\Problem #2 Leap Year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F05EB39-F2B6-4F1E-8F15-1BC9A26BBB21}|Problem #2 Leap Year\\Problem #2 Leap Year.vcxproj|solutionrelative:Problem #2 Leap Year\\Problem #2 Leap Year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #2 Leap Year.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #2 Leap Year\\Problem #2 Leap Year\\Problem #2 Leap Year.cpp",
+              "RelativeDocumentMoniker": "Problem #2 Leap Year\\Problem #2 Leap Year.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #2 Leap Year\\Problem #2 Leap Year\\Problem #2 Leap Year.cpp",
+              "RelativeToolTip": "Problem #2 Leap Year\\Problem #2 Leap Year.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T16:48:00.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

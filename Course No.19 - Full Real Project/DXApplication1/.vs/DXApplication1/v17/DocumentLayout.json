@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dxapplication1\\dxapplication1\\frmkhara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\frmkhara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dxapplication1\\dxapplication1\\frmkhara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\frmkhara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\dxapplication1\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\dxapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\dxapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC22773-F4CE-4078-A8D6-42AFCFE32D70}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmKhara.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\frmKhara.cs",
+              "RelativeDocumentMoniker": "DXApplication1\\frmKhara.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\frmKhara.cs",
+              "RelativeToolTip": "DXApplication1\\frmKhara.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:01:00.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmKhara.cs [Design]",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\frmKhara.cs",
+              "RelativeDocumentMoniker": "DXApplication1\\frmKhara.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\frmKhara.cs [Design]",
+              "RelativeToolTip": "DXApplication1\\frmKhara.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:57:09.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XtraForm1.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\XtraForm1.cs",
+              "RelativeDocumentMoniker": "DXApplication1\\XtraForm1.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\XtraForm1.cs",
+              "RelativeToolTip": "DXApplication1\\XtraForm1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAnwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:51:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "DXApplication1\\Form1.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\Form1.cs",
+              "RelativeToolTip": "DXApplication1\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:45:51.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "DXApplication1\\Form1.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DXApplication1\\DXApplication1\\Form1.cs [Design]",
+              "RelativeToolTip": "DXApplication1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:44:56.3Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

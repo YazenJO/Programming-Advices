@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.10 - OOP as it Should Be (Concepts)\\Nested Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72EE1891-7165-416D-8ABB-07901CF0B4F0}|Nested Classes\\Nested Classes.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.10 - OOP as it Should Be (Concepts)\\Nested Classes\\Nested Classes\\Nested Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72EE1891-7165-416D-8ABB-07901CF0B4F0}|Nested Classes\\Nested Classes.vcxproj|solutionrelative:Nested Classes\\Nested Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nested Classes.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.10 - OOP as it Should Be (Concepts)\\Nested Classes\\Nested Classes\\Nested Classes.cpp",
+              "RelativeDocumentMoniker": "Nested Classes\\Nested Classes.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.10 - OOP as it Should Be (Concepts)\\Nested Classes\\Nested Classes\\Nested Classes.cpp",
+              "RelativeToolTip": "Nested Classes\\Nested Classes.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T13:48:45.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

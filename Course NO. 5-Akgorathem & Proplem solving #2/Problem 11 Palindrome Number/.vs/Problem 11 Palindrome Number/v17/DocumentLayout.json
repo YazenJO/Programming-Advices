@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Problem 11 Palindrome Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1012230-D7D8-46C6-A8A6-50CEF1E7CB2C}|Problem 11 Palindrome Number.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Problem 11 Palindrome Number\\Problem 11 Palindrome Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1012230-D7D8-46C6-A8A6-50CEF1E7CB2C}|Problem 11 Palindrome Number.vcxproj|solutionrelative:Problem 11 Palindrome Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 11 Palindrome Number.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Problem 11 Palindrome Number\\Problem 11 Palindrome Number.cpp",
+              "RelativeDocumentMoniker": "Problem 11 Palindrome Number.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Problem 11 Palindrome Number\\Problem 11 Palindrome Number.cpp",
+              "RelativeToolTip": "Problem 11 Palindrome Number.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T23:15:20.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

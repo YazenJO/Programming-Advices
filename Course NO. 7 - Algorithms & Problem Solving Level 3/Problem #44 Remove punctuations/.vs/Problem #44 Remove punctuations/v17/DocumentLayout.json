@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Problem #44 Remove punctuations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9380E6D-5560-40F8-9B6D-1FA6A0A18849}|Problem #44 Remove punctuations\\Problem #44 Remove punctuations.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Problem #44 Remove punctuations\\Problem #44 Remove punctuations\\Problem #44 Remove punctuations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9380E6D-5560-40F8-9B6D-1FA6A0A18849}|Problem #44 Remove punctuations\\Problem #44 Remove punctuations.vcxproj|solutionrelative:Problem #44 Remove punctuations\\Problem #44 Remove punctuations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #44 Remove punctuations.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Problem #44 Remove punctuations\\Problem #44 Remove punctuations\\Problem #44 Remove punctuations.cpp",
+              "RelativeDocumentMoniker": "Problem #44 Remove punctuations\\Problem #44 Remove punctuations.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Problem #44 Remove punctuations\\Problem #44 Remove punctuations\\Problem #44 Remove punctuations.cpp",
+              "RelativeToolTip": "Problem #44 Remove punctuations\\Problem #44 Remove punctuations.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T08:37:04.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

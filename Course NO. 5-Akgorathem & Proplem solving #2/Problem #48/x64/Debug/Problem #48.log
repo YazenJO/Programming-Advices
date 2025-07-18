@@ -1,0 +1,7 @@
+﻿  Problem #48.cpp
+C:\Users\User\Desktop\مسابقة isbajati\Problem (19,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\مسابقة isbajati\Problem (27,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\مسابقة isbajati\Problem (40,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\مسابقة isbajati\Problem (47,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\مسابقة isbajati\Problem (53,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Problem #48.vcxproj -> C:\Users\User\Desktop\مسابقة isbajati\Problem #48\x64\Debug\Problem #48.exe

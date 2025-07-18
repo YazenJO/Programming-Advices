@@ -1,0 +1,7 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Convert String to DateTime\Convert String to DateTime\bin\Debug\Convert String to DateTime.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Convert String to DateTime\Convert String to DateTime\bin\Debug\Convert String to DateTime.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Convert String to DateTime\Convert String to DateTime\bin\Debug\Convert String to DateTime.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Convert String to DateTime\Convert String to DateTime\obj\Debug\Convert String to DateTime.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Convert String to DateTime\Convert String to DateTime\obj\Debug\Convert String to DateTime.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Convert String to DateTime\Convert String to DateTime\obj\Debug\Convert String to DateTime.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Convert String to DateTime\Convert String to DateTime\obj\Debug\Convert String to DateTime.pdb

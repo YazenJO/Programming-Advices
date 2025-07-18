@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsConsolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCC4184-857C-4F65-88B3-8E1CCEA8B9E7}|..\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\contactsdataaccesslayer\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26650F21-BFCE-4FAB-8FD6-62161224F359}|ContactsConsolApp-PresentationLayer.csproj|c:\\users\\yazen\\downloads\\compressed\\contactssolution_2\\contactsconsolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26650F21-BFCE-4FAB-8FD6-62161224F359}|ContactsConsolApp-PresentationLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533F207-E07A-4D21-90BD-95A635E42CCC}|..\\ContactBusinessLayer\\ContactsBusinessLayer.csproj|C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\contactbusinesslayer\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533F207-E07A-4D21-90BD-95A635E42CCC}|..\\ContactBusinessLayer\\ContactsBusinessLayer.csproj|C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\contactbusinesslayer\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCC4184-857C-4F65-88B3-8E1CCEA8B9E7}|..\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\contactsdataaccesslayer\\contactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Country.cs",
+              "RelativeDocumentMoniker": "..\\ContactBusinessLayer\\Country.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Country.cs",
+              "RelativeToolTip": "..\\ContactBusinessLayer\\Country.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAADgv3gAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:18.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryData.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\CountryData.cs",
+              "RelativeDocumentMoniker": "..\\ContactsDataAccessLayer\\CountryData.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\CountryData.cs",
+              "RelativeToolTip": "..\\ContactsDataAccessLayer\\CountryData.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactData.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\ContactData.cs",
+              "RelativeDocumentMoniker": "..\\ContactsDataAccessLayer\\ContactData.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\ContactData.cs",
+              "RelativeToolTip": "..\\ContactsDataAccessLayer\\ContactData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:18.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Contact.cs",
+              "RelativeDocumentMoniker": "..\\ContactBusinessLayer\\Contact.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Contact.cs",
+              "RelativeToolTip": "..\\ContactBusinessLayer\\Contact.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA0wIsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:18.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsConsolApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsConsolApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCgBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:19.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+E:\C++\C++\19 - Full Real Project\Test\LibraryBusnissLayer\bin\Debug\LibraryBusnissLayer.dll
+E:\C++\C++\19 - Full Real Project\Test\LibraryBusnissLayer\bin\Debug\LibraryBusnissLayer.pdb
+E:\C++\C++\19 - Full Real Project\Test\LibraryBusnissLayer\bin\Debug\LibraryDataAccrssLayer.dll
+E:\C++\C++\19 - Full Real Project\Test\LibraryBusnissLayer\bin\Debug\LibraryDataAccrssLayer.pdb
+E:\C++\C++\19 - Full Real Project\Test\LibraryBusnissLayer\obj\Debug\LibraryBusnissLayer.csproj.AssemblyReference.cache
+E:\C++\C++\19 - Full Real Project\Test\LibraryBusnissLayer\obj\Debug\LibraryBusnissLayer.csproj.CoreCompileInputs.cache
+E:\C++\C++\19 - Full Real Project\Test\LibraryBusnissLayer\obj\Debug\LibraryB.519CDCC4.Up2Date
+E:\C++\C++\19 - Full Real Project\Test\LibraryBusnissLayer\obj\Debug\LibraryBusnissLayer.dll
+E:\C++\C++\19 - Full Real Project\Test\LibraryBusnissLayer\obj\Debug\LibraryBusnissLayer.pdb

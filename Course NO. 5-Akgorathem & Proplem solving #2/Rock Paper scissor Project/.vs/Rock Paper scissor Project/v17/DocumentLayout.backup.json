@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Rock Paper scissor Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFED360-2A89-4D89-821E-E22C8460DD4A}|Rock Paper scissor Project.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Rock Paper scissor Project\\Rock Paper scissor Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCFED360-2A89-4D89-821E-E22C8460DD4A}|Rock Paper scissor Project.vcxproj|solutionrelative:Rock Paper scissor Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rock Paper scissor Project.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Rock Paper scissor Project\\Rock Paper scissor Project.cpp",
+              "RelativeDocumentMoniker": "Rock Paper scissor Project.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Rock Paper scissor Project\\Rock Paper scissor Project.cpp",
+              "RelativeToolTip": "Rock Paper scissor Project.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAMkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-25T14:11:40.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

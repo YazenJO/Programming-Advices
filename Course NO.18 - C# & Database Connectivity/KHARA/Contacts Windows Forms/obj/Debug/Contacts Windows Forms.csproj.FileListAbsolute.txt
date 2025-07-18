@@ -1,0 +1,15 @@
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\bin\Debug\Contacts Windows Forms.exe.config
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\bin\Debug\Contacts Windows Forms.exe
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\bin\Debug\Contacts Windows Forms.pdb
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\obj\Debug\Contacts Windows Forms.csproj.AssemblyReference.cache
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\obj\Debug\Contacts_Windows_Forms.Properties.Resources.resources
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\obj\Debug\Contacts Windows Forms.csproj.GenerateResource.cache
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\obj\Debug\Contacts Windows Forms.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\obj\Debug\Contacts Windows Forms.exe
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\obj\Debug\Contacts Windows Forms.pdb
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\bin\Debug\ContactBusinessLayer.dll
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\bin\Debug\ContactsDataAccessLayer.dll
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\bin\Debug\ContactBusinessLayer.pdb
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\bin\Debug\ContactsDataAccessLayer.pdb
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\obj\Debug\Contacts_Windows_Forms.Form1.resources
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\KHARA\Contacts Windows Forms\obj\Debug\Contacts.8FF9A6E7.Up2Date

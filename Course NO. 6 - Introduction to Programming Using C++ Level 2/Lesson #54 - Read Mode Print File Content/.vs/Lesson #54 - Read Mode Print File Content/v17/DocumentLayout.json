@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #54 - Read Mode Print File Content\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD4C43-CA6E-4490-BA9E-E467A15E8DB3}|Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58CD4C43-CA6E-4490-BA9E-E467A15E8DB3}|Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content.vcxproj|solutionrelative:Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #54 - Read Mode Print File Content.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content.cpp",
+              "RelativeDocumentMoniker": "Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content.cpp",
+              "RelativeToolTip": "Lesson #54 - Read Mode Print File Content\\Lesson #54 - Read Mode Print File Content.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T19:41:38.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

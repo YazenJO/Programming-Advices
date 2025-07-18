@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A144E9-72EC-436E-97B4-E20E0FEACF4F}|Project 5#\\Project 5#.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\Project 5#\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7A144E9-72EC-436E-97B4-E20E0FEACF4F}|Project 5#\\Project 5#.vcxproj|solutionrelative:Project 5#\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A144E9-72EC-436E-97B4-E20E0FEACF4F}|Project 5#\\Project 5#.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\Project 5#\\clsMyQueueArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7A144E9-72EC-436E-97B4-E20E0FEACF4F}|Project 5#\\Project 5#.vcxproj|solutionrelative:Project 5#\\clsMyQueueArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A144E9-72EC-436E-97B4-E20E0FEACF4F}|Project 5#\\Project 5#.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\Project 5#\\Project 5#.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7A144E9-72EC-436E-97B4-E20E0FEACF4F}|Project 5#\\Project 5#.vcxproj|solutionrelative:Project 5#\\Project 5#.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDynamicArray.h",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\Project 5#\\clsDynamicArray.h",
+              "RelativeDocumentMoniker": "Project 5#\\clsDynamicArray.h",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\Project 5#\\clsDynamicArray.h",
+              "RelativeToolTip": "Project 5#\\clsDynamicArray.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T17:12:31.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project 5#.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\Project 5#\\Project 5#.cpp",
+              "RelativeDocumentMoniker": "Project 5#\\Project 5#.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\Project 5#\\Project 5#.cpp",
+              "RelativeToolTip": "Project 5#\\Project 5#.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T15:46:23.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMyQueueArr.h",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\Project 5#\\clsMyQueueArr.h",
+              "RelativeDocumentMoniker": "Project 5#\\clsMyQueueArr.h",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.13 - Algorithms \u0026 Problem Solving Level 5\\Project 5#\\Project 5#\\clsMyQueueArr.h",
+              "RelativeToolTip": "Project 5#\\clsMyQueueArr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T15:48:05.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

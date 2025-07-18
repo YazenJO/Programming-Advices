@@ -1,0 +1,18 @@
+﻿  Template Classes.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\Template Classes\Template Classes.cpp(15,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\Template Classes\Template Classes.cpp(15,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\Template Classes\Template Classes.cpp(7,17): warning C4244: 'return': conversion from 'int' to 'T', possible loss of data
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\Template Classes\Template Classes.cpp(7,17): warning C4244:         with
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\Template Classes\Template Classes.cpp(7,17): warning C4244:         [
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\Template Classes\Template Classes.cpp(7,17): warning C4244:             T=float
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\Template Classes\Template Classes.cpp(7,17): warning C4244:         ]
+  C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\Template Classes\Template Classes.cpp(7,17):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\Template Classes\Template Classes.cpp(15,18):
+  	see reference to function template instantiation 'T GetMax<float>(int,int)' being compiled
+          with
+          [
+              T=float
+          ]
+  
+  Template Classes.vcxproj -> C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Template Classes\x64\Debug\Template Classes.exe

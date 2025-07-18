@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature Change Event", "  Temperature Change Event\Temperature Change Event.csproj", "{EA4DFE23-0A84-4D0F-A8F8-E0519EF995DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4DFE23-0A84-4D0F-A8F8-E0519EF995DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4DFE23-0A84-4D0F-A8F8-E0519EF995DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4DFE23-0A84-4D0F-A8F8-E0519EF995DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4DFE23-0A84-4D0F-A8F8-E0519EF995DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

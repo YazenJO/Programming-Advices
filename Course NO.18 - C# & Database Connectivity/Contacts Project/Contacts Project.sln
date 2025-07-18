@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts Project", "Contacts Project\Contacts Project.csproj", "{BE57C5D8-C8B4-4466-9123-84DBF6C70C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsBusnissLayar", "ContactsBusnissLayar\ContactsBusnissLayar.csproj", "{97B5D953-7216-4F9B-8C9D-D9D91B96EF9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsDataLayer", "ContactsDataLayer\ContactsDataLayer.csproj", "{FF1C8800-B734-4040-AC5F-9B3C11D646CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE57C5D8-C8B4-4466-9123-84DBF6C70C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE57C5D8-C8B4-4466-9123-84DBF6C70C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE57C5D8-C8B4-4466-9123-84DBF6C70C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE57C5D8-C8B4-4466-9123-84DBF6C70C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B5D953-7216-4F9B-8C9D-D9D91B96EF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B5D953-7216-4F9B-8C9D-D9D91B96EF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B5D953-7216-4F9B-8C9D-D9D91B96EF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B5D953-7216-4F9B-8C9D-D9D91B96EF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1C8800-B734-4040-AC5F-9B3C11D646CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1C8800-B734-4040-AC5F-9B3C11D646CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1C8800-B734-4040-AC5F-9B3C11D646CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1C8800-B734-4040-AC5F-9B3C11D646CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

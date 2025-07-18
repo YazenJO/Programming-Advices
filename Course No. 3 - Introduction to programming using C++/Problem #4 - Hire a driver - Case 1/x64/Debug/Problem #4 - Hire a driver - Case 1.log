@@ -1,0 +1,8 @@
+﻿  Problem #4 - Hire a driver - Case 1.cpp
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Problem (29,19): error C2660: 'ReadAgeData': function does not take 2 arguments
+  C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Problem (4,7):
+  see declaration of 'ReadAgeData'
+  C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Problem (29,19):
+  while trying to match the argument list '(short, std::string)'
+  
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Problem (29,69): error C2143: syntax error: missing ')' before ';'

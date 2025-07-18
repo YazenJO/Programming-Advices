@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\ContactsSolution_2\\ContactsConsolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\CountryData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26650F21-BFCE-4FAB-8FD6-62161224F359}|ContactsConsolApp-PresentationLayer.csproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\ContactsSolution_2\\ContactsConsolApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26650F21-BFCE-4FAB-8FD6-62161224F359}|ContactsConsolApp-PresentationLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\ContactData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Country.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Country.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Country.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Country.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAADgv3gAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:18.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryData.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\CountryData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\CountryData.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\CountryData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\CountryData.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactData.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\ContactData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\ContactData.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\ContactData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\Compressed\\ContactsSolution_2\\ContactsDataAccessLayer\\ContactData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:18.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Contact.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Contact.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Contact.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\Compressed\\ContactsSolution_2\\ContactBusinessLayer\\Contact.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA0wIsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:18.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\ContactsSolution_2\\ContactsConsolApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\ContactsSolution_2\\ContactsConsolApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCgBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:19.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

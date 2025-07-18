@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem #55 Calculate Vacation Return Date", "Problem #55 Calculate Vacation Return Date\Problem #55 Calculate Vacation Return Date.vcxproj", "{ED8C90BF-C9E0-4E88-8E03-0A6547623DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8C90BF-C9E0-4E88-8E03-0A6547623DA7}.Debug|x64.ActiveCfg = Debug|x64
+		{ED8C90BF-C9E0-4E88-8E03-0A6547623DA7}.Debug|x64.Build.0 = Debug|x64
+		{ED8C90BF-C9E0-4E88-8E03-0A6547623DA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED8C90BF-C9E0-4E88-8E03-0A6547623DA7}.Debug|x86.Build.0 = Debug|Win32
+		{ED8C90BF-C9E0-4E88-8E03-0A6547623DA7}.Release|x64.ActiveCfg = Release|x64
+		{ED8C90BF-C9E0-4E88-8E03-0A6547623DA7}.Release|x64.Build.0 = Release|x64
+		{ED8C90BF-C9E0-4E88-8E03-0A6547623DA7}.Release|x86.ActiveCfg = Release|Win32
+		{ED8C90BF-C9E0-4E88-8E03-0A6547623DA7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB4E4D1-31CA-4D03-964B-4D1D81278BA4}
+	EndGlobalSection
+EndGlobal

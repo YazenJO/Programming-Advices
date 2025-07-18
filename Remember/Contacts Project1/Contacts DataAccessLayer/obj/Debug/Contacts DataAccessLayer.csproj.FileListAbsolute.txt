@@ -1,0 +1,6 @@
+E:\C++\C++\Remember\Contacts Project1\Contacts DataAccessLayer\bin\Debug\Contacts_DataAccessLayer.dll
+E:\C++\C++\Remember\Contacts Project1\Contacts DataAccessLayer\bin\Debug\Contacts_DataAccessLayer.pdb
+E:\C++\C++\Remember\Contacts Project1\Contacts DataAccessLayer\obj\Debug\Contacts DataAccessLayer.csproj.AssemblyReference.cache
+E:\C++\C++\Remember\Contacts Project1\Contacts DataAccessLayer\obj\Debug\Contacts DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\C++\C++\Remember\Contacts Project1\Contacts DataAccessLayer\obj\Debug\Contacts_DataAccessLayer.dll
+E:\C++\C++\Remember\Contacts Project1\Contacts DataAccessLayer\obj\Debug\Contacts_DataAccessLayer.pdb

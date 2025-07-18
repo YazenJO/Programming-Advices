@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson # 27 - Two Dimensional Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3494B761-A260-4AE0-8B27-8711DAF99B61}|Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3494B761-A260-4AE0-8B27-8711DAF99B61}|Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.vcxproj|solutionrelative:Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3494B761-A260-4AE0-8B27-8711DAF99B61}|Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3494B761-A260-4AE0-8B27-8711DAF99B61}|Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.vcxproj|solutionrelative:Lesson # 27 - Two Dimensional Arrays\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays\\Header.h",
+              "RelativeDocumentMoniker": "Lesson # 27 - Two Dimensional Arrays\\Header.h",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays\\Header.h",
+              "RelativeToolTip": "Lesson # 27 - Two Dimensional Arrays\\Header.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-26T21:26:05.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson # 27 - Two Dimensional Arrays.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.cpp",
+              "RelativeDocumentMoniker": "Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.cpp",
+              "RelativeToolTip": "Lesson # 27 - Two Dimensional Arrays\\Lesson # 27 - Two Dimensional Arrays.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-26T21:14:59.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

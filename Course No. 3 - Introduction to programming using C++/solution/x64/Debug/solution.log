@@ -1,0 +1,3 @@
+﻿  solution.cpp
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\solution\solution.cpp(18): warning C4715: 'GetLastPart': not all control paths return a value
+  solution.vcxproj -> C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\solution\x64\Debug\solution.exe

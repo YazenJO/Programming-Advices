@@ -1,0 +1,6 @@
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-DataAccesLayer\bin\Debug\DVLD-DataAccesLayer.dll
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-DataAccesLayer\bin\Debug\DVLD-DataAccesLayer.pdb
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-DataAccesLayer\obj\Debug\DVLD-DataAccesLayer.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-DataAccesLayer\obj\Debug\DVLD-DataAccesLayer.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-DataAccesLayer\obj\Debug\DVLD-DataAccesLayer.dll
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-DataAccesLayer\obj\Debug\DVLD-DataAccesLayer.pdb

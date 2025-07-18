@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Bank Extension 2 opreatore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BDB383-603D-4229-B560-32CBACF9992B}|Bank Extension 2 opreatore\\Bank Extension 2 opreatore.vcxproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Bank Extension 2 opreatore\\Bank Extension 2 opreatore\\Bank Extension 2 opreatore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8BDB383-603D-4229-B560-32CBACF9992B}|Bank Extension 2 opreatore\\Bank Extension 2 opreatore.vcxproj|solutionrelative:Bank Extension 2 opreatore\\Bank Extension 2 opreatore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank Extension 2 opreatore.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Bank Extension 2 opreatore\\Bank Extension 2 opreatore\\Bank Extension 2 opreatore.cpp",
+              "RelativeDocumentMoniker": "Bank Extension 2 opreatore\\Bank Extension 2 opreatore.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Bank Extension 2 opreatore\\Bank Extension 2 opreatore\\Bank Extension 2 opreatore.cpp",
+              "RelativeToolTip": "Bank Extension 2 opreatore\\Bank Extension 2 opreatore.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-04T21:38:01.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

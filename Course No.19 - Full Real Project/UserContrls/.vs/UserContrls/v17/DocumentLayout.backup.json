@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A8E25F-DD9D-4DA1-BCED-0A63A5C9C722}|UserContrls\\UserContrls.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\usercontrls\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8A8E25F-DD9D-4DA1-BCED-0A63A5C9C722}|UserContrls\\UserContrls.csproj|solutionrelative:usercontrls\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A8E25F-DD9D-4DA1-BCED-0A63A5C9C722}|UserContrls\\UserContrls.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\usercontrls\\ctrlcalculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8A8E25F-DD9D-4DA1-BCED-0A63A5C9C722}|UserContrls\\UserContrls.csproj|solutionrelative:usercontrls\\ctrlcalculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A8E25F-DD9D-4DA1-BCED-0A63A5C9C722}|UserContrls\\UserContrls.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\usercontrls\\usercontrls\\ctrlcalculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A8E25F-DD9D-4DA1-BCED-0A63A5C9C722}|UserContrls\\UserContrls.csproj|solutionrelative:usercontrls\\ctrlcalculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A8E25F-DD9D-4DA1-BCED-0A63A5C9C722}|UserContrls\\UserContrls.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\usercontrls\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A8E25F-DD9D-4DA1-BCED-0A63A5C9C722}|UserContrls\\UserContrls.csproj|solutionrelative:usercontrls\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\UserContrls\\Form1.cs",
+              "RelativeDocumentMoniker": "UserContrls\\Form1.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\UserContrls\\Form1.cs",
+              "RelativeToolTip": "UserContrls\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:47:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ctrlCalculater.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\UserContrls\\ctrlCalculater.cs",
+              "RelativeDocumentMoniker": "UserContrls\\ctrlCalculater.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\UserContrls\\ctrlCalculater.cs",
+              "RelativeToolTip": "UserContrls\\ctrlCalculater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:44:37.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctrlCalculater.cs [Design]",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\UserContrls\\ctrlCalculater.cs",
+              "RelativeDocumentMoniker": "UserContrls\\ctrlCalculater.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\UserContrls\\ctrlCalculater.cs [Design]",
+              "RelativeToolTip": "UserContrls\\ctrlCalculater.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:43:59.523Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\UserContrls\\Form1.cs",
+              "RelativeDocumentMoniker": "UserContrls\\Form1.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\UserContrls\\UserContrls\\Form1.cs [Design]",
+              "RelativeToolTip": "UserContrls\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:42:46.169Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

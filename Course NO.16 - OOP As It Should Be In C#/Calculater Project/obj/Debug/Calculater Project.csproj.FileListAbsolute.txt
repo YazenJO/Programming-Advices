@@ -1,0 +1,7 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Calculater Project\bin\Debug\Calculater Project.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Calculater Project\bin\Debug\Calculater Project.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Calculater Project\bin\Debug\Calculater Project.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Calculater Project\obj\Debug\Calculater Project.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Calculater Project\obj\Debug\Calculater Project.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Calculater Project\obj\Debug\Calculater Project.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Calculater Project\obj\Debug\Calculater Project.pdb

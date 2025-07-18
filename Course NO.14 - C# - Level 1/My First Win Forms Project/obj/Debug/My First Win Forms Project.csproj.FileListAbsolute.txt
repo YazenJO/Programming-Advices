@@ -1,0 +1,33 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\My First Win Forms Project.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\My First Win Forms Project.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\My First Win Forms Project.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My First Win Forms Project.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My_First_Win_Forms_Project.Properties.Resources.resources
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My First Win Forms Project.csproj.GenerateResource.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My First Win Forms Project.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My First Win Forms Project.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My First Win Forms Project.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My_First_Win_Forms_Project.Form1.resources
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My First Win Forms Project.exe.licenses
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My First.EC55CCD5.Up2Date
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My_First_Win_Forms_Project.frmMain.resources
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\obj\Debug\My_First_Win_Forms_Project.frmMassageBox.resources
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\My First Win Forms Project\bin\Debug\DevExpress.XtraBars.v22.2.xml

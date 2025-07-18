@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.12 - Data Structures - Level1\\STACK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DCBCD9-3367-4333-84F4-6D037ED847A8}|STACK\\STACK.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.12 - Data Structures - Level1\\STACK\\STACK\\STACK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18DCBCD9-3367-4333-84F4-6D037ED847A8}|STACK\\STACK.vcxproj|solutionrelative:STACK\\STACK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "STACK.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.12 - Data Structures - Level1\\STACK\\STACK\\STACK.cpp",
+              "RelativeDocumentMoniker": "STACK\\STACK.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.12 - Data Structures - Level1\\STACK\\STACK\\STACK.cpp",
+              "RelativeToolTip": "STACK\\STACK.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T15:55:14.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

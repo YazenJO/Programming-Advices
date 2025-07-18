@@ -1,0 +1,6 @@
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\Dataview\Dataview\obj\Debug\Dataview.csproj.AssemblyReference.cache
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\Dataview\Dataview\obj\Debug\Dataview.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\Dataview\Dataview\bin\Debug\Dataview.exe
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\Dataview\Dataview\bin\Debug\Dataview.pdb
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\Dataview\Dataview\obj\Debug\Dataview.exe
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\Dataview\Dataview\obj\Debug\Dataview.pdb

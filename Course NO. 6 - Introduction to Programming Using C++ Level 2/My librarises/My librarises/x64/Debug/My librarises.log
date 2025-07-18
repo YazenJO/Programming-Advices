@@ -1,0 +1,7 @@
+﻿  My librarises.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 6 - Introduction to Programming Using C++ Level 2\My librarises\My librarises\My librarises.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 6 - Introduction to Programming Using C++ Level 2\My librarises\My librarises\MyArrLib.h(57,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'My%20librarises.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 6 - Introduction to Programming Using C++ Level 2\My librarises\My librarises\MyArrLib.h(192,1): warning C4715: 'MyArrLib::GetRandomCharacter': not all control paths return a value
+  My librarises.vcxproj -> C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 6 - Introduction to Programming Using C++ Level 2\My librarises\x64\Debug\My librarises.exe

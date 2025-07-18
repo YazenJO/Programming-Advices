@@ -1,0 +1,390 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsUser::stLoginRegisterRecord::Permisstion' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/yazen/OneDrive/Desktop/C++/Course NO.11 - OOP as it Should Be ((Applications))/Project 3 Bank System In OOP/Project 3 Bank System In OOP/clsUser.h"
+                },
+                "region": {
+                  "startLine": 147,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsUser::stLoginRegisterRecord::{ctor}",
+                  "decoratedName": "??0stLoginRegisterRecord@clsUser@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsUser::stLoginRegisterRecord::Permisstion"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsBankClient::stTrnsferLogRecord::Amount' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/yazen/OneDrive/Desktop/C++/Course NO.11 - OOP as it Should Be ((Applications))/Project 3 Bank System In OOP/Project 3 Bank System In OOP/clsBankClient.h"
+                },
+                "region": {
+                  "startLine": 176,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsBankClient::stTrnsferLogRecord::{ctor}",
+                  "decoratedName": "??0stTrnsferLogRecord@clsBankClient@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsBankClient::stTrnsferLogRecord::Amount"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsBankClient::stTrnsferLogRecord::srcBalanceAfter' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/yazen/OneDrive/Desktop/C++/Course NO.11 - OOP as it Should Be ((Applications))/Project 3 Bank System In OOP/Project 3 Bank System In OOP/clsBankClient.h"
+                },
+                "region": {
+                  "startLine": 176,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsBankClient::stTrnsferLogRecord::{ctor}",
+                  "decoratedName": "??0stTrnsferLogRecord@clsBankClient@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsBankClient::stTrnsferLogRecord::srcBalanceAfter"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsBankClient::stTrnsferLogRecord::destBalanceAfter' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/yazen/OneDrive/Desktop/C++/Course NO.11 - OOP as it Should Be ((Applications))/Project 3 Bank System In OOP/Project 3 Bank System In OOP/clsBankClient.h"
+                },
+                "region": {
+                  "startLine": 176,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsBankClient::stTrnsferLogRecord::{ctor}",
+                  "decoratedName": "??0stTrnsferLogRecord@clsBankClient@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsBankClient::stTrnsferLogRecord::destBalanceAfter"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/yazen/OneDrive/Desktop/C++/Course NO.11 - OOP as it Should Be ((Applications))/Project 3 Bank System In OOP/Project 3 Bank System In OOP/clsUser.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "aefc6b8b978b9c888f7469813f45ca7fd337c48d9fa652a41b5731a13efee38c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/yazen/OneDrive/Desktop/C++/Course NO.11 - OOP as it Should Be ((Applications))/Project 3 Bank System In OOP/Project 3 Bank System In OOP/clsBankClient.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "bd3fe7c33a5f6a6462686e4f7d8ab5bfd3cb32f1f3d9dd293da851ab9a326b82"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/project 3 bank system in oop.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "954da90b8c21b582c8d65e0d2901ebde7774381522e2e59408d4b2b875cfab6c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsinputvalidate.h"
+          },
+          "hashes": {
+            "sha-256": "f63dbea1bf4ec43802a6df5acc7e6814d173e896a19d85762d265582989a49dd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsstring.h"
+          },
+          "hashes": {
+            "sha-256": "f202ad31713406199a8e132bb4da88a470492bc24cbba49a1d4aac2288e11a32"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsdate.h"
+          },
+          "hashes": {
+            "sha-256": "e212f83db8b8a9d17d445ccd36081344bd160808e5b328df3b7baf2b55dc94e8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsglobal.h"
+          },
+          "hashes": {
+            "sha-256": "8ded0a12903c958fdc88271025d96c159d16218e07b9628d6d46a382adecf575"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsperson.h"
+          },
+          "hashes": {
+            "sha-256": "6e5670560c2f8942418d2df5e39ac5a73723573e1d15aec4c8ddcf8323f45899"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsutil.h"
+          },
+          "hashes": {
+            "sha-256": "bdfb89a70bc5d2b82590c659e0e48e855f41d33d5703d46963b12cf3dfb748fa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsmainscreen.h"
+          },
+          "hashes": {
+            "sha-256": "b8223c23b6d04a04af9b998f7bf26d0dd654631bf291917b90d8cd87382a1537"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsscreen.h"
+          },
+          "hashes": {
+            "sha-256": "0a842c89544a922d7b76fa5ce8b904a5a1a9b993156b6d9a7a7bdbfdee2f50f4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsclientlistscreen.h"
+          },
+          "hashes": {
+            "sha-256": "7ab5cd476df279f1e70af52e70c593cae4e95bbb6b5d060dc097d5b9a72db672"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsaddnewclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "672093a5881b4d2407c9d73030e3e2e80b6dd16963a888a3aaca8168e51cf506"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsupdateclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "ee78190030df5b6b361df9a9d95e7ce3ef11cb3939ebb7caf3bc5742df7c49d5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsfindclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "027b77b013c6379b1b339aae64a41d7274d08c49adcfd6303ec5f15e33b30992"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clstransactionsscreen.h"
+          },
+          "hashes": {
+            "sha-256": "f0dbfd580fe6e125227da394579f68977019130d4d27ec762c4f6718cbfc437d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsdepositscreen.h"
+          },
+          "hashes": {
+            "sha-256": "66bf5b7981e4a14e6c5061dbeb08d1e421e48bec0daaf3261b3b6dafb40798ed"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clswithdrawscreen.h"
+          },
+          "hashes": {
+            "sha-256": "d96959ef94d7aee9c8c10526d88bcdfe9bec9c443d901e6b9d5031636ce80db0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clstotalbalancesscreen.h"
+          },
+          "hashes": {
+            "sha-256": "d4015c4a0d54bbec27a29d15a5d58bd0c3e2b85dcfe827beb05a90f10477629d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clstransferscreen.h"
+          },
+          "hashes": {
+            "sha-256": "17156e117efb53dbba2a89f5d42875699a565ee0df2a588592dfedbd1949d6c0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clstransferlogscreen.h"
+          },
+          "hashes": {
+            "sha-256": "fe3f8a85418fe195932602fa14fcbb41529c8a71c14d8a1f33f00efd7111def3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsdeleteclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "19e85e946ae8122d57f7e4fb2712227d0214e89c026bec5bd74e854ee749b7b5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsmanageuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "5730f8aa8ce2b403627adc4f149af8a5f10c491fad66f252a1541496e8732a8e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsuserlistscreen.h"
+          },
+          "hashes": {
+            "sha-256": "83d21c66bedae0aa274c8f4e7aa8c3970de223524ba9aa475adac9e22b44760e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsaddnewuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "92020741f41ffbffa2ad82773f579cf8c47fb59572ecb59eb5a1a95546a71e2a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsdeleteuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "4465dbeb238f83476b5396b9419b7e6e7fb0b14afef2a60af4f0e14831edcaa0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsupdateuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "17646231eec1c69127d3db75721744e7466f1f919541bb585aff0a69ef9665da"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsfinduserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "d4c3acee8341884982702d3d61798192f701a38bf610ab2f35ecb6117dfc6939"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsloginregisterscreen.h"
+          },
+          "hashes": {
+            "sha-256": "e7718260f4f1a767ead1a669871de365eb1f42ab8fc809846124912415aecd31"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yazen/onedrive/desktop/c++/course no.11 - oop as it should be ((applications))/project 3 bank system in oop/project 3 bank system in oop/clsloginscreen.h"
+          },
+          "hashes": {
+            "sha-256": "af9ddf4ff45f11773c091ccc3c5216b40439034363fa6e321f9fa6b173063a47"
+          }
+        }
+      ]
+    }
+  ]
+}

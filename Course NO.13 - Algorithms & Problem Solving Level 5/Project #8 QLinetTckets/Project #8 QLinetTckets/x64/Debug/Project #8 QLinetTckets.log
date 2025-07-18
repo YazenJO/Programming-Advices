@@ -1,0 +1,23 @@
+﻿  Project #8 QLinetTckets.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.13 - Algorithms & Problem Solving Level 5\Project (36,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.13 - Algorithms & Problem Solving Level 5\Project (41,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.13 - Algorithms & Problem Solving Level 5\Project (53,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.13 - Algorithms & Problem Solving Level 5\Project (190,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.13 - Algorithms & Problem Solving Level 5\Project (320,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.13 - Algorithms & Problem Solving Level 5\Project (369,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.13 - Algorithms & Problem Solving Level 5\Project (219,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets/Project%20#8%20QLinetTckets.cpp')
+  
+  Project #8 QLinetTckets.vcxproj -> C:\Users\yazen\OneDrive\Desktop\C++\Course NO.13 - Algorithms & Problem Solving Level 5\Project #8 QLinetTckets\x64\Debug\Project #8 QLinetTckets.exe

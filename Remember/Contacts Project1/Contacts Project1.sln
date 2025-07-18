@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts Project1", "Contacts Project1\Contacts Project1.csproj", "{114E8E1B-CD09-4D39-9CC8-AF7A58146D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsDB_Business", "ContactsDB_Business\ContactsDB_Business.csproj", "{05CC4DF4-7505-43B2-97DB-00F30931824A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts DataAccessLayer", "Contacts DataAccessLayer\Contacts DataAccessLayer.csproj", "{10235779-9B11-4F17-B2E8-B5EBAB47B84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114E8E1B-CD09-4D39-9CC8-AF7A58146D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114E8E1B-CD09-4D39-9CC8-AF7A58146D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114E8E1B-CD09-4D39-9CC8-AF7A58146D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114E8E1B-CD09-4D39-9CC8-AF7A58146D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CC4DF4-7505-43B2-97DB-00F30931824A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CC4DF4-7505-43B2-97DB-00F30931824A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CC4DF4-7505-43B2-97DB-00F30931824A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CC4DF4-7505-43B2-97DB-00F30931824A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10235779-9B11-4F17-B2E8-B5EBAB47B84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10235779-9B11-4F17-B2E8-B5EBAB47B84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10235779-9B11-4F17-B2E8-B5EBAB47B84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10235779-9B11-4F17-B2E8-B5EBAB47B84E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

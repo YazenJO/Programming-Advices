@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #36 Count Each Word In String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF39C3-11DE-4AB7-9E24-B325938E8F6E}|Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80DF39C3-11DE-4AB7-9E24-B325938E8F6E}|Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String.vcxproj|solutionrelative:Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #36 Count Each Word In String.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String.cpp",
+              "RelativeDocumentMoniker": "Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String.cpp",
+              "RelativeToolTip": "Problem #36 Count Each Word In String\\Problem #36 Count Each Word In String.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T15:19:20.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

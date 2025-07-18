@@ -1,0 +1,6 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\MyFirstClassLibrary\bin\Debug\MyFirstClassLibrary.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\MyFirstClassLibrary\bin\Debug\MyFirstClassLibrary.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.pdb

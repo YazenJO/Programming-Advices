@@ -1,0 +1,6 @@
+﻿  Math Game.cpp
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving #2\Math Game\Math Game.cpp(96): warning C4715: 'GetRandomNumberForEachLevel': not all control paths return a value
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving #2\Math Game\Math Game.cpp(131): warning C4715: 'GetGameOprationforEachLevel': not all control paths return a value
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving #2\Math Game\Math Game.cpp(268): warning C4715: 'PrintLevel': not all control paths return a value
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving #2\Math Game\Math Game.cpp(281): warning C4715: 'PrintQuestionType': not all control paths return a value
+  Math Game.vcxproj -> C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving #2\Math Game\x64\Debug\Math Game.exe

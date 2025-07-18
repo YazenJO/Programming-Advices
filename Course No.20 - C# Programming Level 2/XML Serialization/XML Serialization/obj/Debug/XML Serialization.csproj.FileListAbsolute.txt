@@ -1,0 +1,6 @@
+E:\C++\C++\Course No.20 - C# Programming Level 2\XML Serialization\XML Serialization\bin\Debug\XML_Serialization.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\XML Serialization\XML Serialization\bin\Debug\XML_Serialization.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\XML Serialization\XML Serialization\obj\Debug\XML Serialization.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\XML Serialization\XML Serialization\obj\Debug\XML Serialization.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\XML Serialization\XML Serialization\obj\Debug\XML_Serialization.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\XML Serialization\XML Serialization\obj\Debug\XML_Serialization.pdb

@@ -1,0 +1,4 @@
+﻿  Problems #63 and #64.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 8 - Algorithms & Problem Solving Level 4\Problems (14,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 8 - Algorithms & Problem Solving Level 4\Problems (28,14): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Problems #63 and #64.vcxproj -> C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 8 - Algorithms & Problem Solving Level 4\Problems #63 and #64\x64\Debug\Problems #63 and #64.exe

@@ -1,0 +1,11 @@
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\bin\Debug\Contacts_Project1.exe
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\bin\Debug\Contacts_Project1.pdb
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\bin\Debug\Contacts_BuusnessLayer.dll
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\bin\Debug\Contacts_DataAccessLayer.dll
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\bin\Debug\Contacts_BuusnessLayer.pdb
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\bin\Debug\Contacts_DataAccessLayer.pdb
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\obj\Debug\Contacts Project1.csproj.AssemblyReference.cache
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\obj\Debug\Contacts Project1.csproj.CoreCompileInputs.cache
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\obj\Debug\Contacts.598C7CF0.Up2Date
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\obj\Debug\Contacts_Project1.exe
+E:\C++\C++\Remember\Contacts Project1\Contacts Project1\obj\Debug\Contacts_Project1.pdb

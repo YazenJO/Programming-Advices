@@ -1,0 +1,12 @@
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\bin\Debug\UserContrls.exe.config
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\bin\Debug\UserContrls.pdb
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\obj\Debug\UserContrls.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\obj\Debug\UserContrls.Properties.Resources.resources
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\obj\Debug\UserContrls.csproj.GenerateResource.cache
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\obj\Debug\UserContrls.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\obj\Debug\UserContrls.exe
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\obj\Debug\UserContrls.pdb
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\bin\Debug\Guna.UI2.dll
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\obj\Debug\UserContrls.ctrlCalculater.resources
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\obj\Debug\UserCont.2ADDE020.Up2Date
+E:\C++\C++\Course No.19 - Full Real Project\UserContrls\UserContrls\obj\Debug\UserContrls.Form1.resources

@@ -1,0 +1,14 @@
+﻿  Lesson #30 - Data Type Conversion.cpp
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (9,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (13,12): warning C4244: 'argument': conversion from 'double' to 'const _Elem', possible loss of data
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (13,12): warning C4244:         with
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (13,12): warning C4244:         [
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (13,12): warning C4244:             _Elem=char
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (13,12): warning C4244:         ]
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (16,12): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (16,12): warning C4244:         with
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (16,12): warning C4244:         [
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (16,12): warning C4244:             _Elem=char
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (16,12): warning C4244:         ]
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (20,22): error C2018: unknown character '0x60'
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\Lesson (31,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data

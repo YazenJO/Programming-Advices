@@ -1,0 +1,9 @@
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-BusnissLayer\bin\Debug\DVLD-BusnissLayer.dll
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-BusnissLayer\bin\Debug\DVLD-BusnissLayer.pdb
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-BusnissLayer\bin\Debug\DVLD-DataAccesLayer.dll
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-BusnissLayer\bin\Debug\DVLD-DataAccesLayer.pdb
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-BusnissLayer\obj\Debug\DVLD-BusnissLayer.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-BusnissLayer\obj\Debug\DVLD-BusnissLayer.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-BusnissLayer\obj\Debug\DVLD-Bus.AB09EAC5.Up2Date
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-BusnissLayer\obj\Debug\DVLD-BusnissLayer.dll
+E:\C++\C++\Course No.19 - Full Real Project\DVLD - Driving License Management\DVLD-BusnissLayer\obj\Debug\DVLD-BusnissLayer.pdb

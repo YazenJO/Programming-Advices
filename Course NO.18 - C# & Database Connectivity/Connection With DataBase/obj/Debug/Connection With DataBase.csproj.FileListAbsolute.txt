@@ -1,0 +1,7 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Connection With DataBase\bin\Debug\Connection With DataBase.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Connection With DataBase\bin\Debug\Connection With DataBase.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Connection With DataBase\bin\Debug\Connection With DataBase.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Connection With DataBase\obj\Debug\Connection With DataBase.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Connection With DataBase\obj\Debug\Connection With DataBase.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Connection With DataBase\obj\Debug\Connection With DataBase.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Connection With DataBase\obj\Debug\Connection With DataBase.pdb

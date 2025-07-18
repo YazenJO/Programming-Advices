@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #01 NumberToText\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42ADF005-937C-4A1E-A6A9-CC6B57C1DEF5}|Problem #01 NumberToText\\Problem #01 NumberToText.vcxproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #01 NumberToText\\Problem #01 NumberToText\\Problem #01 NumberToText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42ADF005-937C-4A1E-A6A9-CC6B57C1DEF5}|Problem #01 NumberToText\\Problem #01 NumberToText.vcxproj|solutionrelative:Problem #01 NumberToText\\Problem #01 NumberToText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #01 NumberToText.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #01 NumberToText\\Problem #01 NumberToText\\Problem #01 NumberToText.cpp",
+              "RelativeDocumentMoniker": "Problem #01 NumberToText\\Problem #01 NumberToText.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #01 NumberToText\\Problem #01 NumberToText\\Problem #01 NumberToText.cpp*",
+              "RelativeToolTip": "Problem #01 NumberToText\\Problem #01 NumberToText.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T15:34:49.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

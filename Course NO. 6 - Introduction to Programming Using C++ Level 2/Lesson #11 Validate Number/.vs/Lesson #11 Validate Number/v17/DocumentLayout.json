@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #11 Validate Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBA5920-1119-4143-8640-0FC3077E6694}|Lesson #11 Validate Number\\Lesson #11 Validate Number.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #11 Validate Number\\Lesson #11 Validate Number\\Lesson #11 Validate Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEBA5920-1119-4143-8640-0FC3077E6694}|Lesson #11 Validate Number\\Lesson #11 Validate Number.vcxproj|solutionrelative:Lesson #11 Validate Number\\Lesson #11 Validate Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #11 Validate Number.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #11 Validate Number\\Lesson #11 Validate Number\\Lesson #11 Validate Number.cpp",
+              "RelativeDocumentMoniker": "Lesson #11 Validate Number\\Lesson #11 Validate Number.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #11 Validate Number\\Lesson #11 Validate Number\\Lesson #11 Validate Number.cpp",
+              "RelativeToolTip": "Lesson #11 Validate Number\\Lesson #11 Validate Number.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-22T14:03:33.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

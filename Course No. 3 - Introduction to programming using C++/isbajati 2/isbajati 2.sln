@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "isbajati 2", "isbajati 2.vcxproj", "{0FEB418E-DFFD-4099-9921-E3580AF592CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FEB418E-DFFD-4099-9921-E3580AF592CA}.Debug|x64.ActiveCfg = Debug|x64
+		{0FEB418E-DFFD-4099-9921-E3580AF592CA}.Debug|x64.Build.0 = Debug|x64
+		{0FEB418E-DFFD-4099-9921-E3580AF592CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FEB418E-DFFD-4099-9921-E3580AF592CA}.Debug|x86.Build.0 = Debug|Win32
+		{0FEB418E-DFFD-4099-9921-E3580AF592CA}.Release|x64.ActiveCfg = Release|x64
+		{0FEB418E-DFFD-4099-9921-E3580AF592CA}.Release|x64.Build.0 = Release|x64
+		{0FEB418E-DFFD-4099-9921-E3580AF592CA}.Release|x86.ActiveCfg = Release|Win32
+		{0FEB418E-DFFD-4099-9921-E3580AF592CA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA552907-E661-4755-B946-00DDF8FD10C7}
+	EndGlobalSection
+EndGlobal

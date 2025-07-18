@@ -1,0 +1,6 @@
+E:\C++\C++\Course No.20 - C# Programming Level 2\ News Publisher Subscriber Example\ News Publisher Subscriber Example\bin\Debug\News_Publisher_Subscriber_Example.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\ News Publisher Subscriber Example\ News Publisher Subscriber Example\bin\Debug\News_Publisher_Subscriber_Example.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\ News Publisher Subscriber Example\ News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\ News Publisher Subscriber Example\ News Publisher Subscriber Example\obj\Debug\News Publisher Subscriber Example.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\ News Publisher Subscriber Example\ News Publisher Subscriber Example\obj\Debug\News_Publisher_Subscriber_Example.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\ News Publisher Subscriber Example\ News Publisher Subscriber Example\obj\Debug\News_Publisher_Subscriber_Example.pdb

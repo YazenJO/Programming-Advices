@@ -1,0 +1,3 @@
+﻿  Problem #39 Join String.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Problem (8,14): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Problem #39 Join String.vcxproj -> C:\Users\yazen\OneDrive\Desktop\C++\Problem #39 Join String\x64\Debug\Problem #39 Join String.exe

@@ -1,0 +1,6 @@
+E:\C++\C++\Course No.20 - C# Programming Level 2\  Temperature Change Event\  Temperature Change Event\bin\Debug\Temperature_Change_Event.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\  Temperature Change Event\  Temperature Change Event\bin\Debug\Temperature_Change_Event.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\  Temperature Change Event\  Temperature Change Event\obj\Debug\Temperature Change Event.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\  Temperature Change Event\  Temperature Change Event\obj\Debug\Temperature Change Event.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\  Temperature Change Event\  Temperature Change Event\obj\Debug\Temperature_Change_Event.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\  Temperature Change Event\  Temperature Change Event\obj\Debug\Temperature_Change_Event.pdb

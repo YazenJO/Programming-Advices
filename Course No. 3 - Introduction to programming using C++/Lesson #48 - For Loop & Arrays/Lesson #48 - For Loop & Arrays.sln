@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson #48 - For Loop & Arrays", "Lesson #48 - For Loop & Arrays.vcxproj", "{BEA73AA4-015E-404B-838C-958A11DE6389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA73AA4-015E-404B-838C-958A11DE6389}.Debug|x64.ActiveCfg = Debug|x64
+		{BEA73AA4-015E-404B-838C-958A11DE6389}.Debug|x64.Build.0 = Debug|x64
+		{BEA73AA4-015E-404B-838C-958A11DE6389}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEA73AA4-015E-404B-838C-958A11DE6389}.Debug|x86.Build.0 = Debug|Win32
+		{BEA73AA4-015E-404B-838C-958A11DE6389}.Release|x64.ActiveCfg = Release|x64
+		{BEA73AA4-015E-404B-838C-958A11DE6389}.Release|x64.Build.0 = Release|x64
+		{BEA73AA4-015E-404B-838C-958A11DE6389}.Release|x86.ActiveCfg = Release|Win32
+		{BEA73AA4-015E-404B-838C-958A11DE6389}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03354B68-FABD-4E8B-BA21-6E593DB78062}
+	EndGlobalSection
+EndGlobal

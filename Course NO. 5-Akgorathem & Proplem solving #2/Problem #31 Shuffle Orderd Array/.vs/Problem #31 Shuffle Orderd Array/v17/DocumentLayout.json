@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Problem #31 Shuffle Orderd Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694DC214-BAD6-4052-AFA6-B54F38EF729A}|Problem #31 Shuffle Orderd Array.vcxproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Problem #31 Shuffle Orderd Array\\Problem #31 Shuffle Orderd Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694DC214-BAD6-4052-AFA6-B54F38EF729A}|Problem #31 Shuffle Orderd Array.vcxproj|solutionrelative:Problem #31 Shuffle Orderd Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #31 Shuffle Orderd Array.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Problem #31 Shuffle Orderd Array\\Problem #31 Shuffle Orderd Array.cpp",
+              "RelativeDocumentMoniker": "Problem #31 Shuffle Orderd Array.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO. 5-Akgorathem \u0026 Proplem solving #2\\Problem #31 Shuffle Orderd Array\\Problem #31 Shuffle Orderd Array.cpp",
+              "RelativeToolTip": "Problem #31 Shuffle Orderd Array.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T11:46:13.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

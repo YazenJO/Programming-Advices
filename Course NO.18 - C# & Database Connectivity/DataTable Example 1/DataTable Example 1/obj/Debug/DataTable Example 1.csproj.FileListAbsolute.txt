@@ -1,0 +1,6 @@
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\DataTable Example 1\DataTable Example 1\bin\Debug\DataTable_Example_1.exe
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\DataTable Example 1\DataTable Example 1\bin\Debug\DataTable_Example_1.pdb
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\DataTable Example 1\DataTable Example 1\obj\Debug\DataTable Example 1.csproj.AssemblyReference.cache
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\DataTable Example 1\DataTable Example 1\obj\Debug\DataTable Example 1.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\DataTable Example 1\DataTable Example 1\obj\Debug\DataTable_Example_1.exe
+E:\C++\C++\Course NO.18 - C# & Database Connectivity\DataTable Example 1\DataTable Example 1\obj\Debug\DataTable_Example_1.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #06 Fill 3x3 Matrix With Ordered N\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067511-AE66-4E84-8B4F-4CA8BE7B35DB}|Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C067511-AE66-4E84-8B4F-4CA8BE7B35DB}|Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N.vcxproj|solutionrelative:Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #06 Fill 3x3 Matrix With Ordered N.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N.cpp",
+              "RelativeDocumentMoniker": "Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N.cpp",
+              "RelativeToolTip": "Problem #06 Fill 3x3 Matrix With Ordered N\\Problem #06 Fill 3x3 Matrix With Ordered N.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T20:32:03.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

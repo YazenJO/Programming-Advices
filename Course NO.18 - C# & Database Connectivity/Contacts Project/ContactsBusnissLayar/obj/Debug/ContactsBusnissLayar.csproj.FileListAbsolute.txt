@@ -1,0 +1,9 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsBusnissLayar\bin\Debug\ContactsBusnissLayar.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsBusnissLayar\bin\Debug\ContactsBusnissLayar.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsBusnissLayar\bin\Debug\ContactsDataLayer.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsBusnissLayar\bin\Debug\ContactsDataLayer.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsBusnissLayar\obj\Debug\ContactsBusnissLayar.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsBusnissLayar\obj\Debug\ContactsBusnissLayar.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsBusnissLayar\obj\Debug\Contacts.274A1E2E.Up2Date
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsBusnissLayar\obj\Debug\ContactsBusnissLayar.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsBusnissLayar\obj\Debug\ContactsBusnissLayar.pdb

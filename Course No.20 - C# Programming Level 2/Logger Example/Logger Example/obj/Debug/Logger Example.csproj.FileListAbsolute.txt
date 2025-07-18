@@ -1,0 +1,6 @@
+E:\C++\C++\Course No.20 - C# Programming Level 2\Logger Example\Logger Example\bin\Debug\Logger_Example.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Logger Example\Logger Example\bin\Debug\Logger_Example.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\Logger Example\Logger Example\obj\Debug\Logger Example.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Logger Example\Logger Example\obj\Debug\Logger Example.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Logger Example\Logger Example\obj\Debug\Logger_Example.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Logger Example\Logger Example\obj\Debug\Logger_Example.pdb

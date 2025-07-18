@@ -1,0 +1,5 @@
+﻿  Problem 7 Reverse number.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving (6,1): error C2144: syntax error: 'short' should be preceded by ';'
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving (6,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving (67,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving (71,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data

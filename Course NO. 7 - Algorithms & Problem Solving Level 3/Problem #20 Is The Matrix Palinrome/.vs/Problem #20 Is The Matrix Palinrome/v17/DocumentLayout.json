@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #20 Is The Matrix Palinrome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F09ADEA3-9205-4ED7-A481-C7886C23C3DF}|Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F09ADEA3-9205-4ED7-A481-C7886C23C3DF}|Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome.vcxproj|solutionrelative:Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #20 Is The Matrix Palinrome.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome.cpp",
+              "RelativeDocumentMoniker": "Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome.cpp",
+              "RelativeToolTip": "Problem #20 Is The Matrix Palinrome\\Problem #20 Is The Matrix Palinrome.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T20:08:03.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

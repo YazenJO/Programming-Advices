@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.12 - Data Structures - Level1\\Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA72D508-8513-4FC2-A634-8E8C1FFB7C61}|Queue\\Queue.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.12 - Data Structures - Level1\\Queue\\Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA72D508-8513-4FC2-A634-8E8C1FFB7C61}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.12 - Data Structures - Level1\\Queue\\Queue\\Queue.cpp",
+              "RelativeDocumentMoniker": "Queue\\Queue.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO.12 - Data Structures - Level1\\Queue\\Queue\\Queue.cpp",
+              "RelativeToolTip": "Queue\\Queue.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T16:20:04.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

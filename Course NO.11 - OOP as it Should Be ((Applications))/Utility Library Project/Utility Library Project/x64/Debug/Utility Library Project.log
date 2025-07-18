@@ -1,0 +1,23 @@
+﻿  Utility Library Project.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Utility Library Project\Utility Library Project\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library%20Project.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Utility Library Project\Utility Library Project\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library%20Project.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Utility Library Project\Utility Library Project\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library%20Project.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Utility Library Project\Utility Library Project\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library%20Project.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Utility Library Project\Utility Library Project\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library%20Project.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Utility Library Project\Utility Library Project\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library%20Project.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Utility Library Project\Utility Library Project\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Utility%20Library%20Project.cpp')
+  
+  Utility Library Project.vcxproj -> C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Utility Library Project\x64\Debug\Utility Library Project.exe

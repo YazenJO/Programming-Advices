@@ -1,0 +1,11 @@
+﻿  Date Library Project.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsDate.h(49,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsDate.h(62,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsDate.h(65,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+  Date Library Project.vcxproj -> C:\Users\yazen\OneDrive\Desktop\C++\Course NO.10 - OOP as it Should Be (Concepts)\Date Library Project\x64\Debug\Date Library Project.exe

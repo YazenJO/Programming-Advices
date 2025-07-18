@@ -1,0 +1,10 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\bin\Debug\MyFirstClassLibrary.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\bin\Debug\MyFirstClassLibrary.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\obj\Debug\ConsoleA.88426B56.Up2Date
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

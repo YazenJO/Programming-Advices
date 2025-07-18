@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\test\test.cpp(17): warning C4715: 'ReturnTheMissingChar': not all control paths return a value
+  test.vcxproj -> C:\Users\User\Desktop\C++\Course No. 3 - Introduction to programming using C++\test\x64\Debug\test.exe

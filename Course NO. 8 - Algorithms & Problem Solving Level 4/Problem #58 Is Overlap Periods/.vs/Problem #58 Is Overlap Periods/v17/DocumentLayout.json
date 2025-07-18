@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #58 Is Overlap Periods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{291E09CD-8820-46F7-935A-4DCB0695949A}|Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{291E09CD-8820-46F7-935A-4DCB0695949A}|Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods.vcxproj|solutionrelative:Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #58 Is Overlap Periods.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods.cpp",
+              "RelativeDocumentMoniker": "Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 8 - Algorithms \u0026 Problem Solving Level 4\\Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods.cpp",
+              "RelativeToolTip": "Problem #58 Is Overlap Periods\\Problem #58 Is Overlap Periods.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwMcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T19:59:21.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Abstract Class\bin\Debug\Abstract Class.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Abstract Class\bin\Debug\Abstract Class.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Abstract Class\bin\Debug\Abstract Class.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Abstract Class\obj\Debug\Abstract Class.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Abstract Class\obj\Debug\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Abstract Class\obj\Debug\Abstract Class.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Abstract Class\obj\Debug\Abstract Class.pdb

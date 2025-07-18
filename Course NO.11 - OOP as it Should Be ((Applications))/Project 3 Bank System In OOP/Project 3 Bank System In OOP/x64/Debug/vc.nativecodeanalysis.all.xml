@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Project 3 Bank System In OOP\Project 3 Bank System In OOP\</FILEPATH>
+      <FILENAME>clsUser.h</FILENAME>
+      <LINE>147</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsUser::stLoginRegisterRecord::Permisstion' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsUser::stLoginRegisterRecord::{ctor}</FUNCTION>
+    <DECORATED>??0stLoginRegisterRecord@clsUser@@QEAA@XZ</DECORATED>
+    <FUNCLINE>147</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsUser::stLoginRegisterRecord::Permisstion</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Project 3 Bank System In OOP\Project 3 Bank System In OOP\</FILEPATH>
+      <FILENAME>clsBankClient.h</FILENAME>
+      <LINE>176</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsBankClient::stTrnsferLogRecord::Amount' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsBankClient::stTrnsferLogRecord::{ctor}</FUNCTION>
+    <DECORATED>??0stTrnsferLogRecord@clsBankClient@@QEAA@XZ</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsBankClient::stTrnsferLogRecord::Amount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

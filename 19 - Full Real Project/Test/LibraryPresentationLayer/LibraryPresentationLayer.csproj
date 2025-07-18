@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')"/>
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{0E51DA53-D77E-40A7-8139-089D8234A140}</ProjectGuid>
+        <OutputType>WinExe</OutputType>
+        <RootNamespace>Test</RootNamespace>
+        <AssemblyName>LibraryPresentationLayer</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+        <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+        <Deterministic>true</Deterministic>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="Guna.UI2">
+          <HintPath>..\..\..\..\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+        </Reference>
+        <Reference Include="System"/>
+        <Reference Include="System.Core"/>
+        <Reference Include="System.Xml.Linq"/>
+        <Reference Include="System.Data.DataSetExtensions"/>
+        <Reference Include="Microsoft.CSharp"/>
+        <Reference Include="System.Data"/>
+        <Reference Include="System.Deployment"/>
+        <Reference Include="System.Drawing"/>
+        <Reference Include="System.Net.Http"/>
+        <Reference Include="System.Windows.Forms"/>
+        <Reference Include="System.Xml"/>
+        <Reference Include="Telerik.WinControls.UI">
+          <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Telerik.WinControls.UI\v4.0_2020.1.113.40__5bb2a467cbec794e\Telerik.WinControls.UI.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="AddBookScreen.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="AddBookScreen.Designer.cs">
+          <DependentUpon>AddBookScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="AddBorrowsScreen.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="AddBorrowsScreen.Designer.cs">
+          <DependentUpon>AddBorrowsScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="AddEditShowUserInfo.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="AddEditShowUserInfo.Designer.cs">
+          <DependentUpon>AddEditShowUserInfo.cs</DependentUpon>
+        </Compile>
+        <Compile Include="AddNewPayment.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="AddNewPayment.Designer.cs">
+          <DependentUpon>AddNewPayment.cs</DependentUpon>
+        </Compile>
+        <Compile Include="AddReader.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="AddReader.Designer.cs">
+          <DependentUpon>AddReader.cs</DependentUpon>
+        </Compile>
+        <Compile Include="BooksScreen.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="BooksScreen.Designer.cs">
+          <DependentUpon>BooksScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Borrows.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Borrows.Designer.cs">
+          <DependentUpon>Borrows.cs</DependentUpon>
+        </Compile>
+        <Compile Include="LoginScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="LoginScreen.Designer.cs">
+            <DependentUpon>LoginScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="MainScreen.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="MainScreen.Designer.cs">
+          <DependentUpon>MainScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="PaymentsScreen.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="PaymentsScreen.Designer.cs">
+          <DependentUpon>PaymentsScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Program.cs"/>
+        <Compile Include="Properties\AssemblyInfo.cs"/>
+        <Compile Include="ReadersScreen.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="ReadersScreen.Designer.cs">
+          <DependentUpon>ReadersScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="SettingsScreen.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="SettingsScreen.Designer.cs">
+          <DependentUpon>SettingsScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="ShowEditBorrowScreen.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="ShowEditBorrowScreen.Designer.cs">
+          <DependentUpon>ShowEditBorrowScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="UsersScreen.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="UsersScreen.Designer.cs">
+          <DependentUpon>UsersScreen.cs</DependentUpon>
+        </Compile>
+        <EmbeddedResource Include="AddBookScreen.resx">
+          <DependentUpon>AddBookScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="AddBorrowsScreen.resx">
+          <DependentUpon>AddBorrowsScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="AddEditShowUserInfo.resx">
+          <DependentUpon>AddEditShowUserInfo.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="AddNewPayment.resx">
+          <DependentUpon>AddNewPayment.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="AddReader.resx">
+          <DependentUpon>AddReader.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="BooksScreen.resx">
+          <DependentUpon>BooksScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Borrows.resx">
+          <DependentUpon>Borrows.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="LoginScreen.resx">
+          <DependentUpon>LoginScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="MainScreen.resx">
+          <DependentUpon>MainScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="PaymentsScreen.resx">
+          <DependentUpon>PaymentsScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Properties\Resources.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+            <SubType>Designer</SubType>
+        </EmbeddedResource>
+        <Compile Include="Properties\Resources.Designer.cs">
+            <AutoGen>True</AutoGen>
+            <DependentUpon>Resources.resx</DependentUpon>
+        </Compile>
+        <EmbeddedResource Include="ReadersScreen.resx">
+          <DependentUpon>ReadersScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="SettingsScreen.resx">
+          <DependentUpon>SettingsScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="ShowEditBorrowScreen.resx">
+          <DependentUpon>ShowEditBorrowScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="UsersScreen.resx">
+          <DependentUpon>UsersScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <None Include="Properties\Settings.settings">
+            <Generator>SettingsSingleFileGenerator</Generator>
+            <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+        </None>
+        <Compile Include="Properties\Settings.Designer.cs">
+            <AutoGen>True</AutoGen>
+            <DependentUpon>Settings.settings</DependentUpon>
+            <DesignTimeSharedInput>True</DesignTimeSharedInput>
+        </Compile>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="App.config"/>
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\LibraryBusnissLayer\LibraryBusnissLayer.csproj">
+        <Project>{6fe20ad8-ed20-4ba7-8904-cc3aad4fb748}</Project>
+        <Name>LibraryBusnissLayer</Name>
+      </ProjectReference>
+    </ItemGroup>
+    <ItemGroup>
+      <Content Include="Resources\Add.png" />
+      <Content Include="Resources\addressinfo_icon.png" />
+      <Content Include="Resources\address_400px.png" />
+      <Content Include="Resources\address_480px.png" />
+      <Content Include="Resources\Add_Book.png" />
+      <Content Include="Resources\add_dollar_240px.png" />
+      <Content Include="Resources\Add_Image_iconReader.png" />
+      <Content Include="Resources\Add_New_Borrow.png" />
+      <Content Include="Resources\Add_Readers.png" />
+      <Content Include="Resources\add_user.png" />
+      <Content Include="Resources\add_user_group_woman_man_240px.png" />
+      <Content Include="Resources\At_sign_480px.png" />
+      <Content Include="Resources\Authorbane.png" />
+      <Content Include="Resources\AuthorNa.png" />
+      <Content Include="Resources\book.png" />
+      <Content Include="Resources\BookAdd.png" />
+      <Content Include="Resources\BookCopies_icon.png" />
+      <Content Include="Resources\books.png" />
+      <Content Include="Resources\books1.png" />
+      <Content Include="Resources\Book_Genre.png" />
+      <Content Include="Resources\Book_Name.png" />
+      <Content Include="Resources\Book_Name_icon.png" />
+      <Content Include="Resources\book_shelf.png" />
+      <Content Include="Resources\book_Title.png" />
+      <Content Include="Resources\Borrows.png" />
+      <Content Include="Resources\borrow_book_512px.png" />
+      <Content Include="Resources\call_480px.png" />
+      <Content Include="Resources\call_480px1.png" />
+      <Content Include="Resources\cash_240px.png" />
+      <Content Include="Resources\cash_and_credit_card_240px.png" />
+      <Content Include="Resources\Close_240px.png" />
+      <Content Include="Resources\Close_B.png" />
+      <Content Include="Resources\close_icon.png" />
+      <Content Include="Resources\close_window_400px.png" />
+      <Content Include="Resources\close_window_Book.png" />
+      <Content Include="Resources\conference_480px.png" />
+      <Content Include="Resources\conference_480px1.png" />
+      <Content Include="Resources\contactInfo_icon.png" />
+      <Content Include="Resources\contacts_400px.png" />
+      <Content Include="Resources\contact_400px.png" />
+      <Content Include="Resources\CopiesBook.png" />
+      <Content Include="Resources\DateOfBirth_icon.png" />
+      <Content Include="Resources\Delete_Book.png" />
+      <Content Include="Resources\Delete_credit_cards_240px.png" />
+      <Content Include="Resources\delete_document_480px.png" />
+      <Content Include="Resources\DescriptionBook.png" />
+      <Content Include="Resources\Description_icon.png" />
+      <Content Include="Resources\Edit_Borrow.png" />
+      <Content Include="Resources\Edit_icon.png" />
+      <Content Include="Resources\Edit_icon1.png" />
+      <Content Include="Resources\edit_property_240px.png" />
+      <Content Include="Resources\email_sign.png" />
+      <Content Include="Resources\Extend_icon.png" />
+      <Content Include="Resources\eye_480px.png" />
+      <Content Include="Resources\facebook.png" />
+      <Content Include="Resources\facebook_400px.png" />
+      <Content Include="Resources\Facebook_480px.png" />
+      <Content Include="Resources\female_Icon.png" />
+      <Content Include="Resources\Find_Book.png" />
+      <Content Include="Resources\gender.png" />
+      <Content Include="Resources\gender1.png" />
+      <Content Include="Resources\gender_480px.png" />
+      <Content Include="Resources\Genre.png" />
+      <Content Include="Resources\Genre_icon.png" />
+      <Content Include="Resources\help__icon.png" />
+      <Content Include="Resources\home_icon.png" />
+      <Content Include="Resources\ID.png" />
+      <Content Include="Resources\identification_documents_480px.png" />
+      <Content Include="Resources\info.png" />
+      <Content Include="Resources\Info_icon.png" />
+      <Content Include="Resources\iphone.png" />
+      <Content Include="Resources\ISBN.png" />
+      <Content Include="Resources\ISBNBook_Icon.png" />
+      <Content Include="Resources\Language.png" />
+      <Content Include="Resources\LanguageBook.png" />
+      <Content Include="Resources\Lock.png" />
+      <Content Include="Resources\LoginScreen.jpg" />
+      <Content Include="Resources\MainMenuBackground.jpg" />
+      <Content Include="Resources\male_icon.png" />
+      <Content Include="Resources\male_user_512px.png" />
+      <Content Include="Resources\name_tag_400px.png" />
+      <Content Include="Resources\name_tag_480px.png" />
+      <Content Include="Resources\next_page.png" />
+      <Content Include="Resources\paid_search_240px.png" />
+      <Content Include="Resources\paper_plane_400px.png" />
+      <Content Include="Resources\Payments.png" />
+      <Content Include="Resources\phone_400px.png" />
+      <Content Include="Resources\planner_480px.png" />
+      <Content Include="Resources\PublicationDateBooK.png" />
+      <Content Include="Resources\publication_Date.png" />
+      <Content Include="Resources\Readers.png" />
+      <Content Include="Resources\Reader_Icon.png" />
+      <Content Include="Resources\Remove.png" />
+      <Content Include="Resources\Return_Book_icon.png" />
+      <Content Include="Resources\save.png" />
+      <Content Include="Resources\save_240px.png" />
+      <Content Include="Resources\save_400px.png" />
+      <Content Include="Resources\save_480px.png" />
+      <Content Include="Resources\Save_Book.png" />
+      <Content Include="Resources\Save_icon.png" />
+      <Content Include="Resources\schedule_400px.png" />
+      <Content Include="Resources\search_client.png" />
+      <Content Include="Resources\Settings.png" />
+      <Content Include="Resources\SettingsBackground.png" />
+      <Content Include="Resources\Show_Details.png" />
+      <Content Include="Resources\UnkownUser.png" />
+      <Content Include="Resources\user.png" />
+      <Content Include="Resources\Users.png" />
+      <Content Include="Resources\users_240px.png" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
+</Project>

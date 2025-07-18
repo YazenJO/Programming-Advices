@@ -1,0 +1,13 @@
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\bin\Debug\Simple Event With Parameters Using Arguments.exe.config
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\bin\Debug\Simple Event With Parameters Using Arguments.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\bin\Debug\Guna.UI2.dll
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.Calculater.resources
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.Properties.Resources.resources
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.csproj.GenerateResource.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple E.172EEFB1.Up2Date
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.Form1.resources
+E:\C++\C++\Course No.20 - C# Programming Level 2\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.Test.resources

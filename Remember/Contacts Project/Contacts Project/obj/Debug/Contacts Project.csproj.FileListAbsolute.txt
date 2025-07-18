@@ -1,0 +1,6 @@
+E:\C++\C++\Remember\Contacts Project\Contacts Project\bin\Debug\Contacts_Project.exe
+E:\C++\C++\Remember\Contacts Project\Contacts Project\bin\Debug\Contacts_Project.pdb
+E:\C++\C++\Remember\Contacts Project\Contacts Project\obj\Debug\Contacts Project.csproj.AssemblyReference.cache
+E:\C++\C++\Remember\Contacts Project\Contacts Project\obj\Debug\Contacts Project.csproj.CoreCompileInputs.cache
+E:\C++\C++\Remember\Contacts Project\Contacts Project\obj\Debug\Contacts_Project.exe
+E:\C++\C++\Remember\Contacts Project\Contacts Project\obj\Debug\Contacts_Project.pdb

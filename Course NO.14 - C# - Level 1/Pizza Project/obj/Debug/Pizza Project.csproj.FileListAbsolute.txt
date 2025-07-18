@@ -1,0 +1,11 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\bin\Debug\Pizza Project.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\bin\Debug\Pizza Project.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\bin\Debug\Pizza Project.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\obj\Debug\Pizza_Project.Form1.resources
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\obj\Debug\Pizza Project.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\obj\Debug\Pizza Project.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Pizza Project\obj\Debug\Pizza_Project.frmPizzaMenu.resources

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{413E39D1-C9AC-4663-83F2-D1E6F4D94A46}|Simple Event With Parameters Using Arguments.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.20 - c# programming level 2\\simple event with parameters using arguments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413E39D1-C9AC-4663-83F2-D1E6F4D94A46}|Simple Event With Parameters Using Arguments.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413E39D1-C9AC-4663-83F2-D1E6F4D94A46}|Simple Event With Parameters Using Arguments.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{413E39D1-C9AC-4663-83F2-D1E6F4D94A46}|Simple Event With Parameters Using Arguments.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413E39D1-C9AC-4663-83F2-D1E6F4D94A46}|Simple Event With Parameters Using Arguments.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{413E39D1-C9AC-4663-83F2-D1E6F4D94A46}|Simple Event With Parameters Using Arguments.csproj|solutionrelative:calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413E39D1-C9AC-4663-83F2-D1E6F4D94A46}|Simple Event With Parameters Using Arguments.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.20 - c# programming level 2\\simple event with parameters using arguments\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413E39D1-C9AC-4663-83F2-D1E6F4D94A46}|Simple Event With Parameters Using Arguments.csproj|solutionrelative:calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:53:22.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculater.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\Calculater.cs",
+              "RelativeDocumentMoniker": "Calculater.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\Calculater.cs",
+              "RelativeToolTip": "Calculater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:22:38.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculater.cs [Design]",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\Calculater.cs",
+              "RelativeDocumentMoniker": "Calculater.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\Calculater.cs [Design]",
+              "RelativeToolTip": "Calculater.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:14:27.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.20 - C# Programming Level 2\\Simple Event With Parameters Using Arguments\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:12:29.166Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Struct In C#\Struct In C#\bin\Debug\Struct In C#.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Struct In C#\Struct In C#\bin\Debug\Struct In C#.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Struct In C#\Struct In C#\bin\Debug\Struct In C#.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Struct In C#\Struct In C#\obj\Debug\Struct In C#.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Struct In C#\Struct In C#\obj\Debug\Struct In C#.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Struct In C#\Struct In C#\obj\Debug\Struct In C#.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\Struct In C#\Struct In C#\obj\Debug\Struct In C#.pdb

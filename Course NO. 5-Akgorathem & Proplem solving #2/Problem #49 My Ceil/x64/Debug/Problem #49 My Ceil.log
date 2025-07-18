@@ -1,0 +1,8 @@
+﻿  Problem #49 My Ceil.cpp
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving (17,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving (25,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving (37,17): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving (41,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving (49,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving #2\Problem #49 My Ceil\Problem #49 My Ceil.cpp(55): warning C4715: 'MyCeil': not all control paths return a value
+  Problem #49 My Ceil.vcxproj -> C:\Users\User\Desktop\C++\Course NO. 5-Akgorathem & Proplem solving #2\Problem #49 My Ceil\x64\Debug\Problem #49 My Ceil.exe

@@ -1,0 +1,23 @@
+﻿  Input & Validation Library.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Input & Validation Library\Input & Validation Library\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Input & Validation Library\Input & Validation Library\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Input & Validation Library\Input & Validation Library\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Input & Validation Library\Input & Validation Library\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Input & Validation Library\Input & Validation Library\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Input & Validation Library\Input & Validation Library\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Input & Validation Library\Input & Validation Library\clsInputValidate.h(75,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+  Input & Validation Library.vcxproj -> C:\Users\yazen\OneDrive\Desktop\C++\Course NO.11 - OOP as it Should Be ((Applications))\Input & Validation Library\x64\Debug\Input & Validation Library.exe

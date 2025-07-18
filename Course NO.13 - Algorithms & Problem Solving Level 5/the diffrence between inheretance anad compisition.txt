@@ -1,0 +1,65 @@
+Key Difference Between "Inheritance" & "Composition"
+
+#Inheritance represents an "is-a" relationship.
+
+*Example: A Student is a Person. An Employee is a Person. This means that the Student and Employee classes inherit from the Person class.
+
+*You would not say "a Student has a Person" because it is not a meaningful statement in this context.
+
+
+#Composition represents a "has-a" relationship.
+
+*Example: A Person has a Face and a Body. A Car has an Engine and Wheels.
+
+*You would not say "a Person is a Face" because it doesn't make sense. Instead, a Person is composed of a Face, Body, etc.
+
+
+###Explanation:
+
+#Inheritance ("is-a"):
+
+Used when you need to create a new class that is a type of an existing class.
+Establishes a parent-child relationship.
+Example: Student and Employee are types of Person.
+
+
+#Composition ("has-a"):
+
+Used when you need to create a class that contains objects of other classes.
+Establishes a whole-part relationship.
+Example: A Car contains objects like Engine and Wheel.
+
+____________________________________________________________________________________________________
+In summary, inheritance is about creating a hierarchy between classes based on shared characteristics, while composition is about building complex types by combining objects.
+
+
+
+
+
+الفرق الرئيسي بين "الوراثة" و"التكوين" (كومبوزيشن)
+
+
+."الوراثة تمثل علاقة "هو-نوع من
+
+مثال: الطالب هو شخص. الموظف هو شخص. هذا يعني أن فئات الطالب والموظف ترث من فئة
+.الشخص
+.لن تقول "الطالب لديه شخص" لأنه لا معنى لذلك في هذا السياق
+."التكوين يمثل علاقة "يملك-أ
+
+- مثال: الشخص لديه وجه وجسد. السيارة لديها محرك وعجلات
+لن تقول "الشخص هو وجه" لأن ذلك لا معنى له. بل إن الشخص يتكون من وجه، وجسد، وما إلى
+ذلك
+
+:التوضيح
+:الوراثة ("هو-نوع من")
+
+.تُستخدم عندها تحتاج إلى إنشاء فئة جديدة تكون نوعا من فئة موجودة
+. تُنشئ علاقة بين الأب والابن
+.مثال: الطالب والموظف هما نوعان من الشخص
+
+:التكوين ("يملك-أ")
+.يُستخدم عندما تحتاج إلى إنشاء فئة تحتوي على كائنات من فئات أخرى
+. يُنشئ علاقة بين الكل والجزء
+.مثال: السيارة تحتوي على كائنات مثل المحرك والعجلات
+باختصار، الوراثة تدور حول إنشاء تسلسل هرمي بين الفئات بناءً على الخصائص المشتركة، بينها
+.التكوين يتعلق ببناء أنواع معقدة عن طريق دمج الكائنات

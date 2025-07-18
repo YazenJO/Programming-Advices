@@ -1,0 +1,105 @@
+#include <iostream>
+#include <fstream>
+#include<vector>
+#include <string>
+#include <iomanip>
+using namespace std;
+const string ClientsFileName = "Clients.txt";
+struct stInfo {
+
+	string AccountNumber;
+	string PinCode;
+	string Name;
+	string PhoneNumber;
+	double AccountBalacne;
+
+};
+void LoadDataFromFileToVector(string FileName, vector <string>& vFileContant) {
+	fstream MyFile;
+
+	MyFile.open(FileName, ios::in);
+
+		if (MyFile.is_open()) {
+
+		string line;
+		while (getline(MyFile, line))
+		{
+			vFileContant.push_back(line);
+		}
+		MyFile.close();
+	}
+}
+void PrintClientContenet(stInfo Client) {
+	
+cout << "| " << left << setw(15) << Client.AccountNumber ;
+cout << "| " << left << setw(10) << Client.PinCode;
+cout << "| " << left << setw(40)<< Client.Name;
+cout << "| " << left << setw(12)<< Client.PhoneNumber;
+cout << "| " << left << setw(12)<< Client.AccountBalacne;
+}
+vector<string> SplitString(string S1, string Delim) {
+	vector<string> vString; 
+	short pos = 0; 
+	string sWord=""; // define a string variable  // use find() function to get the position of the delimiters  
+	while ((pos = S1.find(Delim)) != std::string::npos) {
+		sWord = S1.substr(0, pos); // store the word  
+		if (sWord != "") {
+			vString.push_back(sWord);
+		} S1.erase(0, pos + Delim.length());
+	} if (S1 != "") {
+		vString.push_back(S1); // it adds last word of the string. 
+	}
+	return vString;
+}
+stInfo ConvertLinetoRecord(string Line, string Seperator = "#///#") {
+	stInfo Client;
+	vector<string> vClientData;
+	vClientData = SplitString(Line, Seperator);
+	Client.AccountNumber = vClientData[0];
+	Client.PinCode = vClientData[1];
+	Client.Name = vClientData[2];
+	Client.PhoneNumber = vClientData[3];
+	Client.AccountBalacne = stod(vClientData[4]);//cast string to doublereturn Client;
+	return Client;
+}
+void ReadAClientsFromTheFile(string FileName, vector <stInfo>& ClientsData) {
+	vector <string> FileContact;
+	LoadDataFromFileToVector(FileName, FileContact);
+	
+	for (string &Line : FileContact)
+	{
+		ClientsData.push_back(ConvertLinetoRecord(Line));
+		
+	}
+
+
+}
+void PrintClients(vector <stInfo>vFileContant) {
+
+	cout << "\n\t\t\t\t\tClient List (" << vFileContant.size() << ") Client(s).";
+	cout << "\n_______________________________________________________";
+	cout << "_________________________________________\n" << endl;
+	cout << "| " << left  << setw(15) << "Accout Number";
+	cout << "| " << left << setw(10) << "Pin Code";
+	cout << "| " << left << setw(40) << "Client Name";
+	cout << "| " << left << setw(12) << "Phone";
+	cout << "| " << left << setw(12) << "Balance";
+	cout << "\n_______________________________________________________";
+	cout << "_________________________________________\n" << endl;
+	for (stInfo &Client : vFileContant) {
+		PrintClientContenet(Client);
+
+		cout << endl;
+	}
+	cout << "\n_______________________________________________________";
+	cout << "_________________________________________\n" << endl;
+}
+
+int main()
+{
+	
+	vector <stInfo>vFileContant;
+	ReadAClientsFromTheFile(ClientsFileName, vFileContant);
+	PrintClients(vFileContant);
+
+}

@@ -1,0 +1,6 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsDataLayer\bin\Debug\ContactsDataLayer.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsDataLayer\bin\Debug\ContactsDataLayer.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsDataLayer\obj\Debug\ContactsDataLayer.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsDataLayer\obj\Debug\ContactsDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsDataLayer\obj\Debug\ContactsDataLayer.dll
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.18 - C# & Database Connectivity\Contacts Project\ContactsDataLayer\obj\Debug\ContactsDataLayer.pdb

@@ -1,0 +1,4 @@
+﻿  ATM Project.cpp
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 8 - Algorithms & Problem Solving Level 4\ATM Project\ATM Project\ATM Project.cpp(56,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 8 - Algorithms & Problem Solving Level 4\ATM Project\ATM Project\ATM Project.cpp(185,1): warning C4715: 'WithdriwOptions': not all control paths return a value
+  ATM Project.vcxproj -> C:\Users\yazen\OneDrive\Desktop\C++\Course NO. 8 - Algorithms & Problem Solving Level 4\ATM Project\x64\Debug\ATM Project.exe

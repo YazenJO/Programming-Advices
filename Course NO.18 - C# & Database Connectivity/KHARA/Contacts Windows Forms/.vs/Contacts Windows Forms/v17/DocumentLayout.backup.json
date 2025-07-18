@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\KHARA\\Contacts Windows Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6990F40B-B5CB-4643-9BAC-6DA09BF73759}|Contacts Windows Forms.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.18 - c# \u0026 database connectivity\\khara\\contacts windows forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6990F40B-B5CB-4643-9BAC-6DA09BF73759}|Contacts Windows Forms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533F207-E07A-4D21-90BD-95A635E42CCC}|C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_3\\ContactBusinessLayer\\ContactsBusinessLayer.csproj|c:\\users\\yazen\\downloads\\compressed\\contactssolution_3\\contactbusinesslayer\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6990F40B-B5CB-4643-9BAC-6DA09BF73759}|Contacts Windows Forms.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\KHARA\\Contacts Windows Forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6990F40B-B5CB-4643-9BAC-6DA09BF73759}|Contacts Windows Forms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6990F40B-B5CB-4643-9BAC-6DA09BF73759}|Contacts Windows Forms.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\KHARA\\Contacts Windows Forms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6990F40B-B5CB-4643-9BAC-6DA09BF73759}|Contacts Windows Forms.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\KHARA\\Contacts Windows Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\KHARA\\Contacts Windows Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:25:36.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\KHARA\\Contacts Windows Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\KHARA\\Contacts Windows Forms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:30:32.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\KHARA\\Contacts Windows Forms\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course NO.18 - C# \u0026 Database Connectivity\\KHARA\\Contacts Windows Forms\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-25T05:29:39.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_3\\ContactBusinessLayer\\Contact.cs",
+              "ToolTip": "C:\\Users\\yazen\\Downloads\\Compressed\\ContactsSolution_3\\ContactBusinessLayer\\Contact.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:29:32.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

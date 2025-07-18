@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem #16 - Rectangle area Through Diagonal and Side Area", "Problem #16 - Rectangle area Through Diagonal and Side Area.vcxproj", "{5DCA3F5A-6684-4A1A-B1F6-F6D6AB392264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DCA3F5A-6684-4A1A-B1F6-F6D6AB392264}.Debug|x64.ActiveCfg = Debug|x64
+		{5DCA3F5A-6684-4A1A-B1F6-F6D6AB392264}.Debug|x64.Build.0 = Debug|x64
+		{5DCA3F5A-6684-4A1A-B1F6-F6D6AB392264}.Debug|x86.ActiveCfg = Debug|Win32
+		{5DCA3F5A-6684-4A1A-B1F6-F6D6AB392264}.Debug|x86.Build.0 = Debug|Win32
+		{5DCA3F5A-6684-4A1A-B1F6-F6D6AB392264}.Release|x64.ActiveCfg = Release|x64
+		{5DCA3F5A-6684-4A1A-B1F6-F6D6AB392264}.Release|x64.Build.0 = Release|x64
+		{5DCA3F5A-6684-4A1A-B1F6-F6D6AB392264}.Release|x86.ActiveCfg = Release|Win32
+		{5DCA3F5A-6684-4A1A-B1F6-F6D6AB392264}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F22D48CD-1773-4D4D-BCA8-0F87E56DB9EC}
+	EndGlobalSection
+EndGlobal

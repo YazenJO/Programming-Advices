@@ -1,0 +1,7 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Properties Set and Get\bin\Debug\Properties Set and Get.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Properties Set and Get\bin\Debug\Properties Set and Get.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Properties Set and Get\bin\Debug\Properties Set and Get.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Properties Set and Get\obj\Debug\Properties Set and Get.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Properties Set and Get\obj\Debug\Properties Set and Get.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Properties Set and Get\obj\Debug\Properties Set and Get.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.16 - OOP As It Should Be In C#\Properties Set and Get\obj\Debug\Properties Set and Get.pdb

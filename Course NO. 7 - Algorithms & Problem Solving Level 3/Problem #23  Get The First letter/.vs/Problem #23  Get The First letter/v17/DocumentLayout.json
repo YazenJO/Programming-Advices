@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #23  Get The First letter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748622DF-2050-4B69-AA67-E16613E0973D}|Problem #23  Get The First letter\\Problem #23  Get The First letter.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #23  Get The First letter\\Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{748622DF-2050-4B69-AA67-E16613E0973D}|Problem #23  Get The First letter\\Problem #23  Get The First letter.vcxproj|solutionrelative:Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #23  Get The First letter.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #23  Get The First letter\\Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp",
+              "RelativeDocumentMoniker": "Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #23  Get The First letter\\Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp",
+              "RelativeToolTip": "Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T16:36:54.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

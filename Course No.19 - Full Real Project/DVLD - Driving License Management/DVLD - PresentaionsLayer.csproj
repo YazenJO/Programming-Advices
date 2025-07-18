@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')"/>
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{C91D06A6-4CA3-4E4C-972F-1F43C9804986}</ProjectGuid>
+        <OutputType>WinExe</OutputType>
+        <RootNamespace>DVLD___Driving_License_Management</RootNamespace>
+        <AssemblyName>DVLD - Driving License Management</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+        <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+        <Deterministic>true</Deterministic>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="DevExpress.Data.Desktop.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"/>
+        <Reference Include="DevExpress.Data.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"/>
+        <Reference Include="DevExpress.Drawing.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"/>
+        <Reference Include="DevExpress.Printing.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"/>
+        <Reference Include="DevExpress.Sparkline.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"/>
+        <Reference Include="DevExpress.Utils.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL"/>
+        <Reference Include="DevExpress.XtraBars.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL"/>
+        <Reference Include="DevExpress.XtraEditors.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL"/>
+        <Reference Include="DVLD - Driving License Management">
+            <HintPath>bin\Debug\DVLD - Driving License Management.exe</HintPath>
+        </Reference>
+        <Reference Include="Guna.UI2">
+            <HintPath>..\..\..\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+        </Reference>
+        <Reference Include="Microsoft.VisualBasic"/>
+        <Reference Include="PresentationCore"/>
+        <Reference Include="System"/>
+        <Reference Include="System.ComponentModel.DataAnnotations"/>
+        <Reference Include="System.Core"/>
+        <Reference Include="System.Data.Linq"/>
+        <Reference Include="System.Management"/>
+        <Reference Include="System.Runtime.Remoting"/>
+        <Reference Include="System.Xml.Linq"/>
+        <Reference Include="System.Data.DataSetExtensions"/>
+        <Reference Include="Microsoft.CSharp"/>
+        <Reference Include="System.Data"/>
+        <Reference Include="System.Deployment"/>
+        <Reference Include="System.Drawing"/>
+        <Reference Include="System.Net.Http"/>
+        <Reference Include="System.Windows.Forms"/>
+        <Reference Include="System.Xml"/>
+        <Reference Include="Telerik.WinControls, Version=2020.1.113.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e"/>
+        <Reference Include="Telerik.WinControls.UI, Version=2020.1.113.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e"/>
+        <Reference Include="TelerikCommon, Version=2020.1.113.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e"/>
+        <Reference Include="UIAutomationClient"/>
+        <Reference Include="WindowsBase"/>
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="ctrlShowLDLApplicationInfo.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="ctrlShowLDLApplicationInfo.Designer.cs">
+          <DependentUpon>ctrlShowLDLApplicationInfo.cs</DependentUpon>
+        </Compile>
+        <Compile Include="LDLApplication\ManageLocalDrivingLicenseApplicationsScreen .cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="LDLApplication\ManageLocalDrivingLicenseApplicationsScreen .Designer.cs">
+            <DependentUpon>ManageLocalDrivingLicenseApplicationsScreen .cs</DependentUpon>
+        </Compile>
+        <Compile Include="People\AddEditPersonInfoScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="People\AddEditPersonInfoScreen.Designer.cs">
+            <DependentUpon>AddEditPersonInfoScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Users\AddEditUserScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Users\AddEditUserScreen.Designer.cs">
+            <DependentUpon>AddEditUserScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Users\ChangePasswordScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Users\ChangePasswordScreen.Designer.cs">
+            <DependentUpon>ChangePasswordScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controls\ctrlShowPersonDetails.cs">
+            <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Controls\ctrlShowPersonDetails.Designer.cs">
+            <DependentUpon>ctrlShowPersonDetails.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controls\ctrlShowPersonDetailsWithFilter.cs">
+            <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Controls\ctrlShowPersonDetailsWithFilter.Designer.cs">
+            <DependentUpon>ctrlShowPersonDetailsWithFilter.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controls\ctrlShowUserDetails.cs">
+            <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Controls\ctrlShowUserDetails.Designer.cs">
+            <DependentUpon>ctrlShowUserDetails.cs</DependentUpon>
+        </Compile>
+        <Compile Include="ApplicationTypes\EditApplicationsTypeSceen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="ApplicationTypes\EditApplicationsTypeSceen.Designer.cs">
+            <DependentUpon>EditApplicationsTypeSceen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Tests\EditTestType.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Tests\EditTestType.Designer.cs">
+            <DependentUpon>EditTestType.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Main\LoginScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Main\LoginScreen.Designer.cs">
+            <DependentUpon>LoginScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Main\MainScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Main\MainScreen.Designer.cs">
+            <DependentUpon>MainScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="ApplicationTypes\ManageApplicationTypesScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="ApplicationTypes\ManageApplicationTypesScreen.Designer.cs">
+            <DependentUpon>ManageApplicationTypesScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="People\ManagePeopleScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="People\ManagePeopleScreen.Designer.cs">
+            <DependentUpon>ManagePeopleScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Tests\ManageTestTypesScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Tests\ManageTestTypesScreen.Designer.cs">
+            <DependentUpon>ManageTestTypesScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Users\ManageUserScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Users\ManageUserScreen.Designer.cs">
+            <DependentUpon>ManageUserScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="LDLApplication\NewLocalDrivingLicenseApplicationScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="LDLApplication\NewLocalDrivingLicenseApplicationScreen.Designer.cs">
+            <DependentUpon>NewLocalDrivingLicenseApplicationScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Program.cs"/>
+        <Compile Include="Properties\AssemblyInfo.cs"/>
+        <Compile Include="People\ShowPersonDetailsScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="People\ShowPersonDetailsScreen.Designer.cs">
+            <DependentUpon>ShowPersonDetailsScreen.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Users\ShowUserDetailsScreen.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Users\ShowUserDetailsScreen.Designer.cs">
+            <DependentUpon>ShowUserDetailsScreen.cs</DependentUpon>
+        </Compile>
+        <EmbeddedResource Include="ctrlShowLDLApplicationInfo.resx">
+          <DependentUpon>ctrlShowLDLApplicationInfo.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="LDLApplication\ManageLocalDrivingLicenseApplicationsScreen .resx">
+            <DependentUpon>ManageLocalDrivingLicenseApplicationsScreen .cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="People\AddEditPersonInfoScreen.resx">
+            <DependentUpon>AddEditPersonInfoScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Users\AddEditUserScreen.resx">
+            <DependentUpon>AddEditUserScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Users\ChangePasswordScreen.resx">
+            <DependentUpon>ChangePasswordScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Controls\ctrlShowPersonDetails.resx">
+            <DependentUpon>ctrlShowPersonDetails.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Controls\ctrlShowPersonDetailsWithFilter.resx">
+            <DependentUpon>ctrlShowPersonDetailsWithFilter.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Controls\ctrlShowUserDetails.resx">
+            <DependentUpon>ctrlShowUserDetails.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="ApplicationTypes\EditApplicationsTypeSceen.resx">
+            <DependentUpon>EditApplicationsTypeSceen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Tests\EditTestType.resx">
+            <DependentUpon>EditTestType.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Main\LoginScreen.resx">
+            <DependentUpon>LoginScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Main\MainScreen.resx">
+            <DependentUpon>MainScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="ApplicationTypes\ManageApplicationTypesScreen.resx">
+            <DependentUpon>ManageApplicationTypesScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="People\ManagePeopleScreen.resx">
+            <DependentUpon>ManagePeopleScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Tests\ManageTestTypesScreen.resx">
+            <DependentUpon>ManageTestTypesScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Users\ManageUserScreen.resx">
+            <DependentUpon>ManageUserScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="LDLApplication\NewLocalDrivingLicenseApplicationScreen.resx">
+            <DependentUpon>NewLocalDrivingLicenseApplicationScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Properties\licenses.licx"/>
+        <EmbeddedResource Include="Properties\Resources.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <SubType>Designer</SubType>
+            <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Include="People\ShowPersonDetailsScreen.resx">
+            <DependentUpon>ShowPersonDetailsScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Users\ShowUserDetailsScreen.resx">
+            <DependentUpon>ShowUserDetailsScreen.cs</DependentUpon>
+        </EmbeddedResource>
+        <None Include="Properties\Settings.settings">
+            <Generator>SettingsSingleFileGenerator</Generator>
+            <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+        </None>
+        <Compile Include="Properties\Resources.Designer.cs">
+            <AutoGen>True</AutoGen>
+            <DesignTime>True</DesignTime>
+            <DependentUpon>Resources.resx</DependentUpon>
+        </Compile>
+        <Compile Include="Properties\Settings.Designer.cs">
+            <AutoGen>True</AutoGen>
+            <DependentUpon>Settings.settings</DependentUpon>
+            <DesignTimeSharedInput>True</DesignTimeSharedInput>
+        </Compile>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="App.config"/>
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="DVLD-BusnissLayer\DVLD-BusnissLayer.csproj">
+            <Project>{3c6e897b-f2a5-4e1c-8fbb-b5c31b616d96}</Project>
+            <Name>DVLD-BusnissLayer</Name>
+        </ProjectReference>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\59118.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\symbol-code-white-color-icon-vector-16646018.jpg"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\communityIcon_9han5k0p9i5b1.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\logo.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Person 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Number 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="ProjectImages\login_512px.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\DVLD Logo.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\People 400.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\People 64.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Drivers 64.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Add New User 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\account_settings 64.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Applications 64.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Add Person 40.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Man 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Email 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Address 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Woman 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Calendar 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Phone 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Close 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Save 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\PersonDetails 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Delete 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\edit 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\send email 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\call 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Country 32.png"/>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Icons\Icons\Users 2 64.png"/>
+        <None Include="Icons\Icons\Users 2 400.png"/>
+        <None Include="Icons\Icons\sign_out 32 -2.png"/>
+        <None Include="Icons\Icons\Password 32.png"/>
+        <None Include="Icons\Icons\SearchPerson.png"/>
+        <None Include="Icons\Icons\Add New User 72.png"/>
+        <None Include="Icons\Icons\Driver License 48.png"/>
+        <None Include="Icons\Icons\Manage Applications 64.png"/>
+        <None Include="Icons\Icons\Detain 64.png"/>
+        <None Include="Icons\Icons\Application Types 64.png"/>
+        <None Include="Icons\Icons\Test Type 64.png"/>
+        <None Include="Icons\Icons\Application Types 512.png"/>
+        <None Include="Icons\Icons\ApplicationTitle.png"/>
+        <None Include="Icons\Icons\money 32.png"/>
+        <None Include="Icons\Icons\TestType 512.png"/>
+        <None Include="Icons\Icons\New Driving License 32.png"/>
+        <None Include="Icons\Icons\Renew Driving License 32.png"/>
+        <None Include="Icons\Icons\Damaged Driving License 32.png"/>
+        <None Include="Icons\Icons\Detained Driving License 32.png"/>
+        <None Include="Icons\Icons\Retake Test 32.png"/>
+        <None Include="Icons\Icons\Local 32.png"/>
+        <None Include="Icons\Icons\International 32.png"/>
+        <None Include="Icons\Icons\User 32 -2.png"/>
+        <None Include="Icons\Icons\PublicationDateBooK.png"/>
+        <None Include="Icons\Icons\Applications.png"/>
+        <None Include="Icons\Icons\New Application 64.png"/>
+        <None Include="Icons\Icons\License View 32.png"/>
+        <None Include="Icons\Icons\Next 32.png"/>
+        <Content Include="UserData.txt">
+            <SubType>Form</SubType>
+        </Content>
+    </ItemGroup>
+    <ItemGroup/>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
+</Project>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #50 String Object Common Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D65146-F824-4289-8FD5-7A7FCC71D702}|Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0D65146-F824-4289-8FD5-7A7FCC71D702}|Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods.vcxproj|solutionrelative:Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #50 String Object Common Methods.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods.cpp",
+              "RelativeDocumentMoniker": "Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 6 - Introduction to Programming Using C\u002B\u002B Level 2\\Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods.cpp",
+              "RelativeToolTip": "Lesson #50 String Object Common Methods\\Lesson #50 String Object Common Methods.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T05:15:28.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

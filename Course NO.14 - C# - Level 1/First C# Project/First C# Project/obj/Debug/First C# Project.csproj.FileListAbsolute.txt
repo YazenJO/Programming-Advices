@@ -1,0 +1,7 @@
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\First C# Project\First C# Project\obj\Debug\First C# Project.csproj.AssemblyReference.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\First C# Project\First C# Project\obj\Debug\First C# Project.csproj.CoreCompileInputs.cache
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\First C# Project\First C# Project\bin\Debug\First C# Project.exe.config
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\First C# Project\First C# Project\bin\Debug\First C# Project.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\First C# Project\First C# Project\bin\Debug\First C# Project.pdb
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\First C# Project\First C# Project\obj\Debug\First C# Project.exe
+C:\Users\yazen\OneDrive\Desktop\C++\Course NO.14 - C# - Level 1\First C# Project\First C# Project\obj\Debug\First C# Project.pdb

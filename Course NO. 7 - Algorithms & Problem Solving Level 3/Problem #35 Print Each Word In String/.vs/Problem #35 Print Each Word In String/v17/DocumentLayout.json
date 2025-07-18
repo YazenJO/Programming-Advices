@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #35 Print Each Word In String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC834BA9-FC13-4367-96AD-61F639024850}|Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String.vcxproj|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC834BA9-FC13-4367-96AD-61F639024850}|Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String.vcxproj|solutionrelative:Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #23  Get The First letter\\Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Problem #23  Get The First letter.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #23  Get The First letter\\Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp",
+              "RelativeDocumentMoniker": "..\\Problem #23  Get The First letter\\Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #23  Get The First letter\\Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp",
+              "RelativeToolTip": "..\\Problem #23  Get The First letter\\Problem #23  Get The First letter\\Problem #23  Get The First letter.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T10:33:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #35 Print Each Word In String.cpp",
+              "DocumentMoniker": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String.cpp",
+              "RelativeDocumentMoniker": "Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String.cpp",
+              "ToolTip": "C:\\Users\\yazen\\OneDrive\\Desktop\\C\u002B\u002B\\Course NO. 7 - Algorithms \u0026 Problem Solving Level 3\\Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String.cpp",
+              "RelativeToolTip": "Problem #35 Print Each Word In String\\Problem #35 Print Each Word In String.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T10:26:46.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
