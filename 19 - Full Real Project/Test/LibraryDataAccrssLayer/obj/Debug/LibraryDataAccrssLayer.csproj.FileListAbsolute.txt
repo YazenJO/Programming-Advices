@@ -1,6 +1,0 @@
-E:\C++\C++\19 - Full Real Project\Test\LibraryDataAccrssLayer\bin\Debug\LibraryDataAccrssLayer.dll
-E:\C++\C++\19 - Full Real Project\Test\LibraryDataAccrssLayer\bin\Debug\LibraryDataAccrssLayer.pdb
-E:\C++\C++\19 - Full Real Project\Test\LibraryDataAccrssLayer\obj\Debug\LibraryDataAccrssLayer.csproj.AssemblyReference.cache
-E:\C++\C++\19 - Full Real Project\Test\LibraryDataAccrssLayer\obj\Debug\LibraryDataAccrssLayer.csproj.CoreCompileInputs.cache
-E:\C++\C++\19 - Full Real Project\Test\LibraryDataAccrssLayer\obj\Debug\LibraryDataAccrssLayer.dll
-E:\C++\C++\19 - Full Real Project\Test\LibraryDataAccrssLayer\obj\Debug\LibraryDataAccrssLayer.pdb
