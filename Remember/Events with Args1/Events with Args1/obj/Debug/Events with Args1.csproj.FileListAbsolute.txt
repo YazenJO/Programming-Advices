@@ -1,0 +1,13 @@
+E:\C++\C++\Remember\Events with Args1\Events with Args1\bin\Debug\Events_with_Args1.exe.config
+E:\C++\C++\Remember\Events with Args1\Events with Args1\bin\Debug\Events_with_Args1.exe
+E:\C++\C++\Remember\Events with Args1\Events with Args1\bin\Debug\Events_with_Args1.pdb
+E:\C++\C++\Remember\Events with Args1\Events with Args1\obj\Debug\Events with Args1.csproj.AssemblyReference.cache
+E:\C++\C++\Remember\Events with Args1\Events with Args1\obj\Debug\Events_with_Args1.Properties.Resources.resources
+E:\C++\C++\Remember\Events with Args1\Events with Args1\obj\Debug\Events with Args1.csproj.GenerateResource.cache
+E:\C++\C++\Remember\Events with Args1\Events with Args1\obj\Debug\Events with Args1.csproj.CoreCompileInputs.cache
+E:\C++\C++\Remember\Events with Args1\Events with Args1\obj\Debug\Events_with_Args1.exe
+E:\C++\C++\Remember\Events with Args1\Events with Args1\obj\Debug\Events_with_Args1.pdb
+E:\C++\C++\Remember\Events with Args1\Events with Args1\obj\Debug\Events_with_Args1.Calc.resources
+E:\C++\C++\Remember\Events with Args1\Events with Args1\bin\Debug\Guna.UI2.dll
+E:\C++\C++\Remember\Events with Args1\Events with Args1\obj\Debug\Events_with_Args1.Form1.resources
+E:\C++\C++\Remember\Events with Args1\Events with Args1\obj\Debug\Events w.B68F783B.Up2Date
