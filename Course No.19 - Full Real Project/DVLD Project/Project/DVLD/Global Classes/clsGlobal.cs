@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DVLD_Buisness;
+using Microsoft.Win32;
 
 
 namespace DVLD.Classes
@@ -14,7 +15,7 @@ namespace DVLD.Classes
     {
         public static clsUser CurrentUser;
 
-        public static bool RememberUsernameAndPassword(string Username, string Password)
+        /*public static bool RememberUsernameAndPassword(string Username, string Password)
         {
 
             try
@@ -52,9 +53,23 @@ namespace DVLD.Classes
                 return false;
             }
 
+        }*/
+        public static bool RememberUsernameAndPassword(string Username, string Password)
+        {
+            string keyPath = @"HKEY_CURRENT_USER\SOFTWARE\DVLD\Login";
+            try
+            {
+                Registry.SetValue(keyPath, "Username", Username,RegistryValueKind.String);
+                Registry.SetValue(keyPath, "Password", Password,RegistryValueKind.String);
+            }
+            catch (Exception e)
+            {
+                throw;
+                
+            }
+            return true;
         }
-
-        public static bool GetStoredCredential(ref string Username, ref string Password)
+        /*public static bool GetStoredCredential(ref string Username, ref string Password)
         {
             //this will get the stored username and password and will return true if found and false if not found.
             try
@@ -93,8 +108,31 @@ namespace DVLD.Classes
             {
                 MessageBox.Show ($"An error occurred: {ex.Message}");
                 return false;   
-            }
+            }*/
+        public static bool GetStoredCredential(ref string Username, ref string Password)
+        {
+            string keyPath = @"HKEY_CURRENT_USER\SOFTWARE\DVLD\Login";
+            string UserNameV = "Username";
+            string PasswordV = "Password";
+            try
+            {
+                
+                string username = Microsoft.Win32.Registry.GetValue(keyPath, UserNameV, null) as string; 
+                string Pass = Microsoft.Win32.Registry.GetValue(keyPath, PasswordV, null) as string;
 
+                if (username != null && Pass != null)
+                {
+                    Username = username;
+                    Password = Pass;
+                }
+            }
+            catch (Exception ex)
+            {
+                Username = "";
+                Password = "";
+                return false;
+            }
+            return true;
         }
     }
 }

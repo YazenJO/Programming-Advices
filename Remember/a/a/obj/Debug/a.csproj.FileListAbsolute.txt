@@ -1,0 +1,6 @@
+E:\C++\C++\Remember\a\a\bin\Debug\a.exe
+E:\C++\C++\Remember\a\a\bin\Debug\a.pdb
+E:\C++\C++\Remember\a\a\obj\Debug\a.csproj.AssemblyReference.cache
+E:\C++\C++\Remember\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+E:\C++\C++\Remember\a\a\obj\Debug\a.exe
+E:\C++\C++\Remember\a\a\obj\Debug\a.pdb

@@ -1,0 +1,6 @@
+E:\C++\C++\Course No.20 - C# Programming Level 2\Reading from Registry\Reading from Registry\bin\Debug\Reading_from_Registry.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Reading from Registry\Reading from Registry\bin\Debug\Reading_from_Registry.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\Reading from Registry\Reading from Registry\obj\Debug\Reading from Registry.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Reading from Registry\Reading from Registry\obj\Debug\Reading from Registry.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Reading from Registry\Reading from Registry\obj\Debug\Reading_from_Registry.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Reading from Registry\Reading from Registry\obj\Debug\Reading_from_Registry.pdb

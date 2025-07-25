@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
+using DVLD.Classes;
 
 namespace DVLD_DataAccess
 {
@@ -188,7 +189,7 @@ namespace DVLD_DataAccess
 
             command.Parameters.AddWithValue("@PersonID", PersonID);
             command.Parameters.AddWithValue("@UserName", UserName);
-            command.Parameters.AddWithValue("@Password", Password);
+            command.Parameters.AddWithValue("@Password", clsHashing.HashPassword(Password));
             command.Parameters.AddWithValue("@IsActive", IsActive);
 
             try
@@ -236,7 +237,7 @@ namespace DVLD_DataAccess
 
             command.Parameters.AddWithValue("@PersonID", PersonID);
             command.Parameters.AddWithValue("@UserName", UserName);
-            command.Parameters.AddWithValue("@Password", Password);
+            command.Parameters.AddWithValue("@Password", clsHashing.HashPassword(Password));
             command.Parameters.AddWithValue("@IsActive", IsActive);
             command.Parameters.AddWithValue("@UserID", UserID);
 

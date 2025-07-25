@@ -2,11 +2,14 @@
 using System.Data;
 using System.Runtime.InteropServices;
 using DVLD_DataAccess;
+using DVLD.Classes;
+
 
 namespace DVLD_Buisness
 {
     public  class clsUser
     {
+        
         public enum enMode { AddNew = 0, Update = 1 };
         public enMode Mode = enMode.AddNew;
 
@@ -93,9 +96,9 @@ namespace DVLD_Buisness
             int PersonID=-1;
 
             bool IsActive = false;
-
+            
             bool IsFound = clsUserData.GetUserInfoByUsernameAndPassword
-                                (UserName , Password,ref UserID,ref PersonID, ref IsActive);
+                                (UserName , clsHashing.HashPassword(Password),ref UserID,ref PersonID, ref IsActive);
 
             if (IsFound)
                 //we return new object of that User with the right data
