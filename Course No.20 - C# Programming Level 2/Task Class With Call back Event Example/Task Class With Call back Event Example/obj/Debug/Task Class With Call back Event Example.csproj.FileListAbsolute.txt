@@ -1,0 +1,6 @@
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class With Call back Event Example\Task Class With Call back Event Example\bin\Debug\Task_Class_With_Call_back_Event_Example.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class With Call back Event Example\Task Class With Call back Event Example\bin\Debug\Task_Class_With_Call_back_Event_Example.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class With Call back Event Example\Task Class With Call back Event Example\obj\Debug\Task Class With Call back Event Example.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class With Call back Event Example\Task Class With Call back Event Example\obj\Debug\Task Class With Call back Event Example.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class With Call back Event Example\Task Class With Call back Event Example\obj\Debug\Task_Class_With_Call_back_Event_Example.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class With Call back Event Example\Task Class With Call back Event Example\obj\Debug\Task_Class_With_Call_back_Event_Example.pdb

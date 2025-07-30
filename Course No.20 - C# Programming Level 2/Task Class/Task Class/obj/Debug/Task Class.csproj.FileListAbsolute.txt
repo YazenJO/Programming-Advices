@@ -1,0 +1,6 @@
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class\Task Class\bin\Debug\Task_Class.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class\Task Class\bin\Debug\Task_Class.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class\Task Class\obj\Debug\Task Class.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class\Task Class\obj\Debug\Task Class.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class\Task Class\obj\Debug\Task_Class.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Task Class\Task Class\obj\Debug\Task_Class.pdb
