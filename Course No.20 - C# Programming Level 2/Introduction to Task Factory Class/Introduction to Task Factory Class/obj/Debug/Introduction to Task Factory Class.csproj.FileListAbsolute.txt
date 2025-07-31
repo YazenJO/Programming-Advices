@@ -1,0 +1,6 @@
+E:\C++\C++\Course No.20 - C# Programming Level 2\Introduction to Task Factory Class\Introduction to Task Factory Class\bin\Debug\Introduction_to_Task_Factory_Class.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Introduction to Task Factory Class\Introduction to Task Factory Class\bin\Debug\Introduction_to_Task_Factory_Class.pdb
+E:\C++\C++\Course No.20 - C# Programming Level 2\Introduction to Task Factory Class\Introduction to Task Factory Class\obj\Debug\Introduction to Task Factory Class.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Introduction to Task Factory Class\Introduction to Task Factory Class\obj\Debug\Introduction to Task Factory Class.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.20 - C# Programming Level 2\Introduction to Task Factory Class\Introduction to Task Factory Class\obj\Debug\Introduction_to_Task_Factory_Class.exe
+E:\C++\C++\Course No.20 - C# Programming Level 2\Introduction to Task Factory Class\Introduction to Task Factory Class\obj\Debug\Introduction_to_Task_Factory_Class.pdb
