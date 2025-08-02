@@ -1,0 +1,11 @@
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\bin\Debug\Traffic_Project.exe.config
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\bin\Debug\Traffic_Project.pdb
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\obj\Debug\Traffic Project.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\obj\Debug\Traffic_Project.Properties.Resources.resources
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\obj\Debug\Traffic Project.csproj.GenerateResource.cache
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\obj\Debug\Traffic Project.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\obj\Debug\Traffic_Project.exe
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\obj\Debug\Traffic_Project.pdb
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\obj\Debug\Traffic_Project.TrafficLight.resources
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\obj\Debug\Traffic_Project.Form1.resources
+D:\MY World\Programming-Advices\Course No.20 - C# Programming Level 2\Traffic Project\Traffic Project\obj\Debug\Traffic .A3C8D795.Up2Date
