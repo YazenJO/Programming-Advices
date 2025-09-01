@@ -1,0 +1,6 @@
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\Working with a List of Custom Objects\bin\Debug\Working_with_a_List_of_Custom_Objects.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\Working with a List of Custom Objects\bin\Debug\Working_with_a_List_of_Custom_Objects.pdb
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\Working with a List of Custom Objects\obj\Debug\Working with a List of Custom Objects.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\Working with a List of Custom Objects\obj\Debug\Working with a List of Custom Objects.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\Working with a List of Custom Objects\obj\Debug\Working_with_a_List_of_Custom_Objects.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with a List of Custom Objects\Working with a List of Custom Objects\obj\Debug\Working_with_a_List_of_Custom_Objects.pdb

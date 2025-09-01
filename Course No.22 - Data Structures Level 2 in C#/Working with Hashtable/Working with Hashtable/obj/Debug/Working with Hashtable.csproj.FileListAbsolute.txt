@@ -1,0 +1,6 @@
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Hashtable\Working with Hashtable\bin\Debug\Working_with_Hashtable.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Hashtable\Working with Hashtable\bin\Debug\Working_with_Hashtable.pdb
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Hashtable\Working with Hashtable\obj\Debug\Working with Hashtable.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Hashtable\Working with Hashtable\obj\Debug\Working with Hashtable.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Hashtable\Working with Hashtable\obj\Debug\Working_with_Hashtable.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Hashtable\Working with Hashtable\obj\Debug\Working_with_Hashtable.pdb

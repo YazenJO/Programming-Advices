@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Looping Through a List", "Looping Through a List\Looping Through a List.csproj", "{A7433F66-A214-4F27-8124-51B315786005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7433F66-A214-4F27-8124-51B315786005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7433F66-A214-4F27-8124-51B315786005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7433F66-A214-4F27-8124-51B315786005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7433F66-A214-4F27-8124-51B315786005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Dictionary\Working with Dictionary\bin\Debug\Working_with_Dictionary.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Dictionary\Working with Dictionary\bin\Debug\Working_with_Dictionary.pdb
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Dictionary\Working with Dictionary\obj\Debug\Working with Dictionary.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Dictionary\Working with Dictionary\obj\Debug\Working with Dictionary.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Dictionary\Working with Dictionary\obj\Debug\Working_with_Dictionary.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Working with Dictionary\Working with Dictionary\obj\Debug\Working_with_Dictionary.pdb
