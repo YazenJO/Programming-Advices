@@ -1,0 +1,6 @@
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Union Operation with HashSet\Union Operation with HashSet\bin\Debug\Union_Operation_with_HashSet.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Union Operation with HashSet\Union Operation with HashSet\bin\Debug\Union_Operation_with_HashSet.pdb
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Union Operation with HashSet\Union Operation with HashSet\obj\Debug\Union Operation with HashSet.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Union Operation with HashSet\Union Operation with HashSet\obj\Debug\Union Operation with HashSet.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Union Operation with HashSet\Union Operation with HashSet\obj\Debug\Union_Operation_with_HashSet.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Union Operation with HashSet\Union Operation with HashSet\obj\Debug\Union_Operation_with_HashSet.pdb
