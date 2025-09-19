@@ -1,0 +1,117 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics.Contracts;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace General_Tree_Implementation_in_C_
+{
+    public class TreeNode<T>
+    {
+        public T Value { get; set; }
+        public List<TreeNode<T>> Children { get; set; }
+
+        public TreeNode(T value)
+        {
+            this.Value = value;
+            Children = new List<TreeNode<T>>();
+        }
+        public void AddChild(TreeNode<T> node) { Children.Add(node); }
+    }
+    
+    public class Tree<T>
+    {
+        public TreeNode<T> Root { get; private set; }
+
+        public Tree(T root) { Root = new TreeNode<T>(root); }
+    }
+    
+    internal class Program
+    {
+        // Company hierarchy tree
+        static Tree<string> CompanyOwner;
+        
+        static void Main(string[] args)
+        {
+            // Build the company hierarchy
+            BuildCompanyHierarchy();
+            
+            Console.WriteLine("=== TechCorp Company Hierarchy ===");
+            Console.WriteLine("Total Employees: 20\n");
+            
+            Program p = new Program();
+            p.PrintTree(CompanyOwner.Root); 
+            
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
+        }
+        
+        static void BuildCompanyHierarchy()
+        {
+            // Create the company tree with CEO as root
+            CompanyOwner = new Tree<string>("CEO - Sarah Johnson");
+            
+            // Level 1: Vice Presidents (3 VPs)
+            var vpEngineering = new TreeNode<string>("VP Engineering - Michael Chen");
+            var vpSales = new TreeNode<string>("VP Sales - Jennifer Davis");
+            var vpHR = new TreeNode<string>("VP Human Resources - Robert Martinez");
+            
+            CompanyOwner.Root.AddChild(vpEngineering);
+            CompanyOwner.Root.AddChild(vpSales);
+            CompanyOwner.Root.AddChild(vpHR);
+            
+            // Level 2: Directors and Senior Managers (4 people under VPs)
+            var directorDev = new TreeNode<string>("Director Development - Alex Thompson");
+            var directorQA = new TreeNode<string>("Director QA - Lisa Wang");
+            var salesManagerEast = new TreeNode<string>("Sales Manager East - David Wilson");
+            var hrManager = new TreeNode<string>("HR Manager - Emma Brown");
+            
+            vpEngineering.AddChild(directorDev);
+            vpEngineering.AddChild(directorQA);
+            vpSales.AddChild(salesManagerEast);
+            vpHR.AddChild(hrManager);
+            
+            // Level 3: Team Leaders and Senior Staff (6 people)
+            var teamLeadFrontend = new TreeNode<string>("Team Lead Frontend - Jake Miller");
+            var teamLeadBackend = new TreeNode<string>("Team Lead Backend - Sophia Garcia");
+            var seniorQA = new TreeNode<string>("Senior QA Engineer - Ryan Anderson");
+            var salesRepSenior = new TreeNode<string>("Senior Sales Rep - Maria Rodriguez");
+            var salesRepJunior = new TreeNode<string>("Sales Representative - Kevin Lee");
+            var hrSpecialist = new TreeNode<string>("HR Specialist - Amanda Taylor");
+            
+            directorDev.AddChild(teamLeadFrontend);
+            directorDev.AddChild(teamLeadBackend);
+            directorQA.AddChild(seniorQA);
+            salesManagerEast.AddChild(salesRepSenior);
+            salesManagerEast.AddChild(salesRepJunior);
+            hrManager.AddChild(hrSpecialist);
+            
+            // Level 4: Individual Contributors (6 people)
+            var frontendDev1 = new TreeNode<string>("Frontend Developer - Chris Johnson");
+            var frontendDev2 = new TreeNode<string>("Frontend Developer - Nicole White");
+            var backendDev1 = new TreeNode<string>("Backend Developer - Daniel Kim");
+            var backendDev2 = new TreeNode<string>("Backend Developer - Ashley Clark");
+            var qaEngineer1 = new TreeNode<string>("QA Engineer - Tyler Moore");
+            var qaEngineer2 = new TreeNode<string>("QA Engineer - Rachel Adams");
+            
+            teamLeadFrontend.AddChild(frontendDev1);
+            teamLeadFrontend.AddChild(frontendDev2);
+            teamLeadBackend.AddChild(backendDev1);
+            teamLeadBackend.AddChild(backendDev2);
+            seniorQA.AddChild(qaEngineer1);
+            seniorQA.AddChild(qaEngineer2);
+        }
+        
+        // Function to print the tree
+        public void PrintTree(TreeNode<string> root, string indent = "", bool isLast = true)
+        {
+            Console.WriteLine(indent + "+- " + root.Value);
+            indent += isLast ? "   " : "|  ";
+            for (int i = 0; i < root.Children.Count; i++)
+            {
+                PrintTree(root.Children[i], indent, i == root.Children.Count - 1);
+            }
+        }
+    }
+}

@@ -1,0 +1,6 @@
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Advanced LINQ Operations on Array\Advanced LINQ Operations on Array\bin\Debug\Advanced_LINQ_Operations_on_Array.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Advanced LINQ Operations on Array\Advanced LINQ Operations on Array\bin\Debug\Advanced_LINQ_Operations_on_Array.pdb
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Advanced LINQ Operations on Array\Advanced LINQ Operations on Array\obj\Debug\Advanced LINQ Operations on Array.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Advanced LINQ Operations on Array\Advanced LINQ Operations on Array\obj\Debug\Advanced LINQ Operations on Array.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Advanced LINQ Operations on Array\Advanced LINQ Operations on Array\obj\Debug\Advanced_LINQ_Operations_on_Array.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Advanced LINQ Operations on Array\Advanced LINQ Operations on Array\obj\Debug\Advanced_LINQ_Operations_on_Array.pdb
