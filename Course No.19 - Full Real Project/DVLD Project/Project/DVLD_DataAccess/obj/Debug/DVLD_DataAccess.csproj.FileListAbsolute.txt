@@ -22,3 +22,9 @@ E:\C++\C++\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess
 E:\C++\C++\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
 E:\C++\C++\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
 E:\C++\C++\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb

@@ -34,3 +34,12 @@ E:\C++\C++\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\o
 E:\C++\C++\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
 E:\C++\C++\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
 E:\C++\C++\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+D:\MY World\Programming-Advices\Course No.19 - Full Real Project\DVLD Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb

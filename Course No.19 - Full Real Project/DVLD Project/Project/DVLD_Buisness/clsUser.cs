@@ -98,7 +98,7 @@ namespace DVLD_Buisness
             bool IsActive = false;
             
             bool IsFound = clsUserData.GetUserInfoByUsernameAndPassword
-                                (UserName , clsHashing.HashPassword(Password),ref UserID,ref PersonID, ref IsActive);
+                                (UserName , (Password),ref UserID,ref PersonID, ref IsActive);
 
             if (IsFound)
                 //we return new object of that User with the right data

@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|d:\\my world\\programming-advices\\course no.19 - full real project\\dvld project\\project\\dvld_buisness\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|d:\\my world\\programming-advices\\course no.19 - full real project\\dvld project\\project\\dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\licenses\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:licenses\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DVLD_DataAccess||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_dataaccess\\clsdetaindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_buisness\\clsdetain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\licenses\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:licenses\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_buisness\\clslocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_dataaccess\\clslocaldrivinglicenseapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_buisness\\clslicenseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_buisness\\clsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_buisness\\clsapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_buisness\\clslicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_buisness\\clsdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_dataaccess\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\dvld_dataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:31:59.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsDetain.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsDetain.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsDetain.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsDetain.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsDetain.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAjwGAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDetainLicense.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Licenses\\Detain License\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "Licenses\\Detain License\\frmDetainLicense.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Licenses\\Detain License\\frmDetainLicense.cs",
+              "RelativeToolTip": "Licenses\\Detain License\\frmDetainLicense.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAtwDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDetainLicense.cs [Design]",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Licenses\\Detain License\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "Licenses\\Detain License\\frmDetainLicense.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Licenses\\Detain License\\frmDetainLicense.cs [Design]",
+              "RelativeToolTip": "Licenses\\Detain License\\frmDetainLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmListInternationalLicesnseApplications.cs [Design]",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Applications\\International License\\frmListInternationalLicesnseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmEditApplicationType.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeToolTip": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAArwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsUser.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsUser.cs*",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsUser.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.364Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsDetainData.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsDetainData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsDetainData.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsDetainData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsDetainData.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAAKYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmEditApplicationType.cs [Design]",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DVLD_DataAccess",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\DVLD_DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\DVLD_DataAccess.csproj",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\DVLD_DataAccess.csproj",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\DVLD_DataAccess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T20:29:39.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsLocalDrivingLicenseApplicationData.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwKkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsLicenseClass.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLicenseClass.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsLicenseClass.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLicenseClass.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsLicenseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsApplication.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsApplication.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsApplicationType.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsApplicationType.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsApplicationType.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsApplicationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsLicense.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsLicense.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLicense.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsLicense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsDriver.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsDriver.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsDriver.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsDriver.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsDriver.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowCIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:27:29.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
