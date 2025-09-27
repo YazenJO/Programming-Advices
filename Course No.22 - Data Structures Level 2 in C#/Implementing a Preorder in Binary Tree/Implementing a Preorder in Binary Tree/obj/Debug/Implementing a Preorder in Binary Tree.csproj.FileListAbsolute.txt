@@ -1,0 +1,7 @@
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Implementing a Preorder in Binary Tree\Implementing a Preorder in Binary Tree\bin\Debug\Implementing a Preorder in Binary Tree.exe.config
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Implementing a Preorder in Binary Tree\Implementing a Preorder in Binary Tree\bin\Debug\Implementing a Preorder in Binary Tree.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Implementing a Preorder in Binary Tree\Implementing a Preorder in Binary Tree\bin\Debug\Implementing a Preorder in Binary Tree.pdb
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Implementing a Preorder in Binary Tree\Implementing a Preorder in Binary Tree\obj\Debug\Implementing a Preorder in Binary Tree.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Implementing a Preorder in Binary Tree\Implementing a Preorder in Binary Tree\obj\Debug\Implementing a Preorder in Binary Tree.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Implementing a Preorder in Binary Tree\Implementing a Preorder in Binary Tree\obj\Debug\Implementing a Preorder in Binary Tree.exe
+D:\MY World\Programming-Advices\Course No.22 - Data Structures Level 2 in C#\Implementing a Preorder in Binary Tree\Implementing a Preorder in Binary Tree\obj\Debug\Implementing a Preorder in Binary Tree.pdb

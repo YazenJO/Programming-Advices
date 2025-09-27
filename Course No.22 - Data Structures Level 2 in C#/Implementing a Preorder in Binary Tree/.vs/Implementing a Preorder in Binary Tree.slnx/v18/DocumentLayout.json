@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MY World\\Programming-Advices\\Course No.22 - Data Structures Level 2 in C#\\Implementing a Preorder in Binary Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52AF0DC-2EFB-4979-B75A-899472729B3D}|Implementing a Preorder in Binary Tree\\Implementing a Preorder in Binary Tree.csproj|d:\\my world\\programming-advices\\course no.22 - data structures level 2 in c#\\implementing a preorder in binary tree\\implementing a preorder in binary tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52AF0DC-2EFB-4979-B75A-899472729B3D}|Implementing a Preorder in Binary Tree\\Implementing a Preorder in Binary Tree.csproj|solutionrelative:implementing a preorder in binary tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Course No.22 - Data Structures Level 2 in C#\\Implementing a Preorder in Binary Tree\\Implementing a Preorder in Binary Tree\\Program.cs",
+              "RelativeDocumentMoniker": "Implementing a Preorder in Binary Tree\\Program.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Course No.22 - Data Structures Level 2 in C#\\Implementing a Preorder in Binary Tree\\Implementing a Preorder in Binary Tree\\Program.cs",
+              "RelativeToolTip": "Implementing a Preorder in Binary Tree\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAqwHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T12:50:01.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

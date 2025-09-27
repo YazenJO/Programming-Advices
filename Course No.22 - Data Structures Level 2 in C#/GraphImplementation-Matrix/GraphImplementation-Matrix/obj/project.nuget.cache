@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IraCnmoCuTo=",
+  "success": true,
+  "projectFilePath": "D:\\MY World\\Programming-Advices\\Course No.22 - Data Structures Level 2 in C#\\GraphImplementation-Matrix\\GraphImplementation-Matrix\\GraphImplementation-Matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yazen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\yazen\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\yazen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\yazen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
