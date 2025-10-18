@@ -1,0 +1,8 @@
+D:\MY World\Programming-Advices\Introduction to RESTful API\Example 09 Send Email Via OutLook\Example 09 Send Email Via OutLook\bin\Debug\Example 09 Send Email Via OutLook.exe.config
+D:\MY World\Programming-Advices\Introduction to RESTful API\Example 09 Send Email Via OutLook\Example 09 Send Email Via OutLook\bin\Debug\Example 09 Send Email Via OutLook.exe
+D:\MY World\Programming-Advices\Introduction to RESTful API\Example 09 Send Email Via OutLook\Example 09 Send Email Via OutLook\bin\Debug\Example 09 Send Email Via OutLook.pdb
+D:\MY World\Programming-Advices\Introduction to RESTful API\Example 09 Send Email Via OutLook\Example 09 Send Email Via OutLook\obj\Debug\Example 09 Send Email Via OutLook.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Example 09 Send Email Via OutLook\Example 09 Send Email Via OutLook\obj\Debug\Example 09 Send Email Via OutLook.csproj.ResolveComReference.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Example 09 Send Email Via OutLook\Example 09 Send Email Via OutLook\obj\Debug\Example 09 Send Email Via OutLook.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Example 09 Send Email Via OutLook\Example 09 Send Email Via OutLook\obj\Debug\Example 09 Send Email Via OutLook.exe
+D:\MY World\Programming-Advices\Introduction to RESTful API\Example 09 Send Email Via OutLook\Example 09 Send Email Via OutLook\obj\Debug\Example 09 Send Email Via OutLook.pdb

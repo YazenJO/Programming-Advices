@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zs3zo7uHHf4=",
+  "success": true,
+  "projectFilePath": "D:\\MY World\\Programming-Advices\\Introduction to RESTful API\\MYFirstWebAPI\\MYFirstWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yazen\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.0-rc.1.25451.107\\microsoft.aspnetcore.app.internal.assets.10.0.0-rc.1.25451.107.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MY World\\Programming-Advices\\Introduction to RESTful API\\Example 3 Battery Info\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB00CD7A-7B40-4A0C-B950-8C4A24A93B26}|Example 3 Battery Info\\Example 3 Battery Info.csproj|d:\\my world\\programming-advices\\introduction to restful api\\example 3 battery info\\example 3 battery info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB00CD7A-7B40-4A0C-B950-8C4A24A93B26}|Example 3 Battery Info\\Example 3 Battery Info.csproj|solutionrelative:example 3 battery info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Introduction to RESTful API\\Example 3 Battery Info\\Example 3 Battery Info\\Program.cs",
+              "RelativeDocumentMoniker": "Example 3 Battery Info\\Program.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Introduction to RESTful API\\Example 3 Battery Info\\Example 3 Battery Info\\Program.cs",
+              "RelativeToolTip": "Example 3 Battery Info\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:31:49.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

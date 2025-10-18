@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MY World\\Programming-Advices\\Introduction to RESTful API\\Example 09 Send Email Via OutLook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148646F4-900F-4512-B517-DD74B524CD65}|Example 09 Send Email Via OutLook\\Example 09 Send Email Via OutLook.csproj|d:\\my world\\programming-advices\\introduction to restful api\\example 09 send email via outlook\\example 09 send email via outlook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148646F4-900F-4512-B517-DD74B524CD65}|Example 09 Send Email Via OutLook\\Example 09 Send Email Via OutLook.csproj|solutionrelative:example 09 send email via outlook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MY World\\Programming-Advices\\Introduction to RESTful API\\Example 09 Send Email Via OutLook\\Example 09 Send Email Via OutLook\\Program.cs",
+              "RelativeDocumentMoniker": "Example 09 Send Email Via OutLook\\Program.cs",
+              "ToolTip": "D:\\MY World\\Programming-Advices\\Introduction to RESTful API\\Example 09 Send Email Via OutLook\\Example 09 Send Email Via OutLook\\Program.cs",
+              "RelativeToolTip": "Example 09 Send Email Via OutLook\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:20:03.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

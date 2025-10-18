@@ -1,0 +1,24 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
+using Student_API_Project.Models;
+
+
+namespace Student_API_Project.Controllers
+{
+    [ApiController]
+    [Route("api/Students")]
+    public class StudentsController : ControllerBase
+    {
+        [HttpGet]
+        public ActionResult<IEnumerable<Students>> GetAllStudents()
+        {
+            return Ok(StudentsDataSemulation.StudentsList);
+        }
+        [HttpGet("Passed Students")]
+        public ActionResult<IEnumerable<Students>> GetPassedStudents()
+        {
+            var passedStudents = StudentsDataSemulation.StudentsList.Where(s => s.Grade >= 70).ToList();
+            return Ok(passedStudents);
+        }
+    }
+}

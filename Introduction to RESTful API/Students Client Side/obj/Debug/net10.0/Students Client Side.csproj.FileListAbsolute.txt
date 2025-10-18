@@ -1,0 +1,15 @@
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\bin\Debug\net10.0\Students Client Side.exe
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\bin\Debug\net10.0\Students Client Side.deps.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\bin\Debug\net10.0\Students Client Side.runtimeconfig.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\bin\Debug\net10.0\Students Client Side.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\bin\Debug\net10.0\Students Client Side.pdb
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\Students Client Side.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\Students Client Side.AssemblyInfoInputs.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\Students Client Side.AssemblyInfo.cs
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\Students Client Side.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\Students Client Side.sourcelink.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\Students Client Side.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\refint\Students Client Side.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\Students Client Side.pdb
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\Students Client Side.genruntimeconfig.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Students Client Side\obj\Debug\net10.0\ref\Students Client Side.dll

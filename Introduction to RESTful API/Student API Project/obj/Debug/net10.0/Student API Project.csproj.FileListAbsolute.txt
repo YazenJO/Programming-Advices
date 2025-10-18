@@ -1,0 +1,44 @@
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\appsettings.Development.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\appsettings.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Student API Project.staticwebassets.endpoints.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Student API Project.exe
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Student API Project.deps.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Student API Project.runtimeconfig.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Student API Project.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Student API Project.pdb
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.csproj.AssemblyReference.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.AssemblyInfoInputs.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.AssemblyInfo.cs
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.csproj.CoreCompileInputs.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.MvcApplicationPartsAssemblyInfo.cs
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.MvcApplicationPartsAssemblyInfo.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.sourcelink.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\scopedcss\bundle\Student API Project.styles.css
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\staticwebassets.build.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\staticwebassets.development.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\swae.build.ex.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student .163E0721.Up2Date
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\refint\Student API Project.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.pdb
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\Student API Project.genruntimeconfig.cache
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\obj\Debug\net10.0\ref\Student API Project.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\System.Net.Http.Formatting.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\System.Web.Http.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\System.Web.Http.WebHost.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Microsoft.Web.Infrastructure.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\Swashbuckle.Core.dll
+D:\MY World\Programming-Advices\Introduction to RESTful API\Student API Project\bin\Debug\net10.0\WebActivatorEx.dll

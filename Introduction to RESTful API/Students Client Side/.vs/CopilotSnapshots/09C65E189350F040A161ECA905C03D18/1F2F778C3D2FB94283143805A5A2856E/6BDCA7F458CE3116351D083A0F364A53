@@ -1,0 +1,30 @@
+﻿using System.Net.Http.Json;
+
+HttpClient client = new HttpClient();
+client.BaseAddress = new Uri("https://localhost:7247/api/Students");
+await GetAllStudents();
+async Task GetAllStudents()
+{
+    try
+    {
+        var students = await client.GetFromJsonAsync<List<Student>>("students");
+        if (students != null)
+        {
+            foreach (var student in students)
+            {
+                Console.WriteLine($"ID: {student.Id}, Name: {student.Name}, Age: {student.Age}");
+            }
+        }
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"An error occurred: {ex.Message}");
+
+    }
+}
+public class Student
+{
+    public int Id { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public int Age { get; set; }
+}

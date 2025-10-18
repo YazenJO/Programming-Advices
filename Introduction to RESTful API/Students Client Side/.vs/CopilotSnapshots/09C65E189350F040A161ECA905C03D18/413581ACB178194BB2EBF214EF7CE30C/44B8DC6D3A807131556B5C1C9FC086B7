@@ -1,0 +1,7 @@
+﻿using System.Net.Http.Json;
+
+HttpClient client = new HttpClient();
+client.BaseAddress = new Uri("https://localhost:7283/");
+
+// Add your API calls here, for example:
+// var students = await client.GetFromJsonAsync<List<Student>>("api/students");

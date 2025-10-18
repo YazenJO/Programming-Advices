@@ -1,0 +1,13 @@
+﻿using System.Net.Http.Json;
+
+namespace StudentApiClient
+{ 
+
+    static readonly HttpClient client = new HttpClient();
+
+    static async Task Main(string[] args)
+    {
+        client.BaseAddress = new Uri("https://localhost:7283/");
+    }
+
+}

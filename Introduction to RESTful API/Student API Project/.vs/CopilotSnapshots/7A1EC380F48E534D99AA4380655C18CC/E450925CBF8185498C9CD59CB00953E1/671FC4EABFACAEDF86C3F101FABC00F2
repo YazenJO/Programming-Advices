@@ -1,0 +1,20 @@
+﻿using Student_API_Project.Models;
+
+namespace Student_API_Project
+{
+    public class StudentsDataSemulation
+    {
+        public static readonly List<Students> StudentsList = new List<Students>
+        {
+            
+            new Students { Id = 1, Name = "Alice", Age = 20, Grade = },
+            new Students { Id = 2, Name = "Bob", Age = 22, Grade = "B" },
+            new Students { Id = 3, Name = "Charlie", Age = 21, Grade = "C" },
+            new Students { Id = 4, Name = "David", Age = 23, Grade = "B" },
+            new Students { Id = 5, Name = "Eve", Age = 20, Grade = "A" }
+        };
+        
+           
+
+    }
+}
